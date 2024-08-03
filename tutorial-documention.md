@@ -8,6 +8,8 @@
 - **License**: GPLv2 or later
 
 ## 2. General Requirements of Ostnica Theme
-Before getting started with ostnica theme , you need to first ensure your server or wordpress meet the specifix requirements 
-1. Wordpress Version: 5.8+
-2. Php Version: 7.4+ 
+Before getting started with the Ostnica theme, you need to first ensure your server or WordPress installation meets the specific requirements:
+
+1. **WordPress Version**: 5.8+
+2. **PHP Version**: 7.4+
+
