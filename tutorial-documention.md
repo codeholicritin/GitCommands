@@ -21,10 +21,20 @@ Before getting started with the Ostnica theme, you need to first ensure your ser
    - `upload_max_filesize`: 1024M
 
 ## Installation 
-You Can Install theme In either two ways: 
+You can install the theme in two ways:
 
-**Method 1 - Via the Wordpress Admin dashboard**
-1. Navigate to _Apperarence > Theme > Add New_
+**Method 1 - Via the WordPress Admin Dashboard**
+1. Navigate to _Appearance > Themes > Add New_.
 
-   ![Method 1 Step1 Ostnica](https://github.com/user-attachments/assets/6571a360-0038-4526-9554-f721958be72a)
+   ![Method 1 Step 1 Ostnica](https://github.com/user-attachments/assets/6571a360-0038-4526-9554-f721958be72a)
+
+2. Click on the "Upload Theme" button and choose the Ostnica-theme.zip file you previously downloaded.
+   
+   ![Method 1 Step 2 Ostnica](https://github.com/user-attachments/assets/2031225b-f896-4f41-a44b-77c02ce28c3f)
+
+3. Click the "Install Now" button to upload and install the theme.
+
+
+
+
    
