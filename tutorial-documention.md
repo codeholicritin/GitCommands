@@ -13,8 +13,16 @@ Before getting started with the Ostnica theme, you need to first ensure your ser
 1. **WordPress Version**: 5.8+
 2. **PHP Version**: 7.4+
 3. **PHP Configuration**:
-   - `max_execution_time`: 3600
-   - `max_input_vars`: 5000
+   - `max_execution_time`: 600
+   - `max_input_vars`: 3000
    - `memory_limit`: 1024M
-   - `post_max_size`: 2048M
+   - `post_max_size`: 1024M
+   - `max_file_upload` : 40
    - `upload_max_filesize`: 1024M
+
+## Installation 
+You Can Install theme In either two ways: 
+
+**Method 1 - Via the Wordpress Admin dashboard**
+1. Navigate to _Apperarence > Theme > Add New_
+   
