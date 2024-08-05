@@ -45,6 +45,40 @@ You can install the theme in two ways:
    
    ![Method 1 Step 3 Ostnica](https://github.com/user-attachments/assets/e1f69a88-042d-49fc-a462-0097de77d43b)
 
+## Required Plugins
+
+These are the required plugins we need to activate before using the theme's functionality:
+
+- **Ostnica Elementor Addons**
+  - Version: 1.0.0
+  - Description: Plugin for Elementor addons
+
+- **Ostnica Demo Import (for Elementor)**
+  - Version: 1.0.0
+  - Description: Plugin for importing pre-built pages (theme demos)
+
+- **Ostnica Core**
+  - Version: 1.0.0
+  - Description: Plugin to manage custom post types
+
+- **Contact Form 7**
+  - Version: 5.4+
+
+- **Elementor**
+  - Version: 3.1+
+
+- **MC4WP: Mailchimp for WordPress**
+  - Version: [latest]
+
+- **Ostnica Gutenberg Addon**
+  - Version: 1.0.0
+
+- **Ostnica Widget Importer Exporter Addon**
+  - Version: 1.0.0
+
+To install these required plugins, navigate to _Plugins_ and click `Begin installing plugins`.
+
+
 
 
 
