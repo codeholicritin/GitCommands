@@ -94,6 +94,8 @@ If you encounter an error while using the bulk action, please try to install the
 
 2. You will see the available demo themes. Select the demo theme you want to import.
 3. Select the Option _INSTALL COMPLETE PRE-BUILT WEBSITE_ and click on _IMPORT_ button.
+   
+   ![Demo Import Step 2](https://github.com/user-attachments/assets/2076f278-d5a9-4e56-84ce-ec44b65f3bbe)
 
 
 
