@@ -39,11 +39,11 @@ You can install the theme in two ways:
 2. Once Logged In, Navigate to your _wp-content > themes_ folder.
 3. Upload the Unzipped Ostnica Theme inside the _wp-content > themes_ folder.
 
-   ![Method 2 Step 1 Ostnica](https://github.com/user-attachments/assets/8d893cc5-c7e9-4ffa-a025-6b5be886c449)
+      ![Method 2 Step 1 Ostnica](https://github.com/user-attachments/assets/8d893cc5-c7e9-4ffa-a025-6b5be886c449)
 
    Once the theme is uploaded , you will then need to activate it . To do so , navigate to the _Appearance > theme_ section and activate your theme.
    
-   ![Method 1 Step 3 Ostnica](https://github.com/user-attachments/assets/e1f69a88-042d-49fc-a462-0097de77d43b)
+      ![Method 1 Step 3 Ostnica](https://github.com/user-attachments/assets/e1f69a88-042d-49fc-a462-0097de77d43b)
 
 ## 4. Required Plugins
 
@@ -78,17 +78,19 @@ These are the required plugins we need to activate before using the theme's func
 
 To install these required plugins, navigate to _Plugins_ and click `Begin installing plugins`.
 
-![Required Plugin Install Step 1](https://github.com/user-attachments/assets/c5b7841c-d767-458e-8ba9-6995e3fc345c)
+   ![Required Plugin Install Step 1](https://github.com/user-attachments/assets/c5b7841c-d767-458e-8ba9-6995e3fc345c)
 
 Now check the plugin checkbox to select all plugins, and under the _Bulk Actions_ dropdown, select _Install_ and click on the _Apply_ button to install all plugins at once.
 
-![Install Required Plugin Bulk Action](https://github.com/user-attachments/assets/4bdf55b5-313e-4c16-b637-dbe7eedf418a)
+   ![Install Required Plugin Bulk Action](https://github.com/user-attachments/assets/4bdf55b5-313e-4c16-b637-dbe7eedf418a)
 
 If you encounter an error while using the bulk action, please try to install the plugins one by one.
 
 ## 5. Importing Demo Themes
 
 1. Navigate to _Theme Options > Demo Import_.
+
+   ![Demo Import Step 1](https://github.com/user-attachments/assets/d2dad04a-80ee-4c24-a0a9-1de4bc452cb1)
 
 2. You will see the available demo themes. Select the demo theme you want to import.
 3. Select the Option _INSTALL COMPLETE PRE-BUILT WEBSITE_ and click on _IMPORT_ button.
