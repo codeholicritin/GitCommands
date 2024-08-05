@@ -34,6 +34,14 @@ You can install the theme in two ways:
 
 3. Click the "Install Now" button to upload and install the theme.
 
+**Method 2 - FTP Upload** 
+1. Connect to your server via FTP software, using your FTP sever URL, FTP Username, FTP Password and a port number.
+2. Once Logged In, Navigate to your _wp-content > themes_ folder.
+3. Upload the Unzipped Ostnica Theme inside the _wp-content > themes_ folder.
+
+   ![Method 2 Step 1 Ostnica](https://github.com/user-attachments/assets/8d893cc5-c7e9-4ffa-a025-6b5be886c449)
+
+4. 
 
 
 
