@@ -20,7 +20,7 @@ Before getting started with the Ostnica theme, you need to first ensure your ser
    - `max_file_upload` : 40
    - `upload_max_filesize`: 1024M
 
-## Installation 
+## 3. Installation 
 You can install the theme in two ways:
 
 **Method 1 - Via the WordPress Admin Dashboard**
@@ -45,7 +45,7 @@ You can install the theme in two ways:
    
    ![Method 1 Step 3 Ostnica](https://github.com/user-attachments/assets/e1f69a88-042d-49fc-a462-0097de77d43b)
 
-## Required Plugins
+## 4. Required Plugins
 
 These are the required plugins we need to activate before using the theme's functionality:
 
@@ -86,7 +86,11 @@ Now check the plugin checkbox to select all plugins, and under the _Bulk Actions
 
 If you encounter an error while using the bulk action, please try to install the plugins one by one.
 
+## 5.Importing Demo Themes
 
+1. Navigate to _Theme Options > Demo Import_.
+
+2. You will see the available demo themes. Select the demo theme you want to import.
 
 
 
