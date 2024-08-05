@@ -25,4 +25,5 @@ You Can Install theme In either two ways:
 
 **Method 1 - Via the Wordpress Admin dashboard**
 1. Navigate to _Apperarence > Theme > Add New_
+   ![Method 1 Step1 Ostnica](https://github.com/user-attachments/assets/6571a360-0038-4526-9554-f721958be72a)
    
