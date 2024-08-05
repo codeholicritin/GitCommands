@@ -84,6 +84,8 @@ Now check the plugin checkbox to select all plugins, and under the _Bulk Actions
 
 ![Install Required Plugin Bulk Action](https://github.com/user-attachments/assets/4bdf55b5-313e-4c16-b637-dbe7eedf418a)
 
+If you encounter an error while using the bulk action, please try to install the plugins one by one.
+
 
 
 
