@@ -86,11 +86,12 @@ Now check the plugin checkbox to select all plugins, and under the _Bulk Actions
 
 If you encounter an error while using the bulk action, please try to install the plugins one by one.
 
-## 5.Importing Demo Themes
+## 5. Importing Demo Themes
 
 1. Navigate to _Theme Options > Demo Import_.
 
 2. You will see the available demo themes. Select the demo theme you want to import.
+3. Select the Option _INSTALL COMPLETE PRE-BUILT WEBSITE_ and click on _IMPORT_ button.
 
 
 
