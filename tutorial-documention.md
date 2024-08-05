@@ -78,6 +78,12 @@ These are the required plugins we need to activate before using the theme's func
 
 To install these required plugins, navigate to _Plugins_ and click `Begin installing plugins`.
 
+![Required Plugin Install Step 1](https://github.com/user-attachments/assets/c5b7841c-d767-458e-8ba9-6995e3fc345c)
+
+Now check the plugin checkbox to select all plugins, and under the _Bulk Actions_ dropdown, select _Install_ and click on the _Apply_ button to install all plugins at once.
+
+![Install Required Plugin Bulk Action](https://github.com/user-attachments/assets/4bdf55b5-313e-4c16-b637-dbe7eedf418a)
+
 
 
 
