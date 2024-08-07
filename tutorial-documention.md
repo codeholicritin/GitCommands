@@ -139,3 +139,37 @@ If you encounter an error while using the bulk action, please try to install the
 
 5. Click on _Save Changes_ to apply the settings.
 
+## 8. Ostnica Theme Options 
+
+### General Tab > Theme Styling
+
+In the Admin dashboard menu, navigate to _Theme Options_ to find various options for customizing your website. Inside the _General_ tab, under _Theme Styling_, you will find the following options:
+
+1. **Font Family**
+   - **Description:** Set the font family for the entire website.
+   - **Screenshot:** ![Font Family Setting](https://github.com/user-attachments/assets/font-family-screenshot)
+   - **Usage:** Choose your preferred font from the dropdown to apply it to all text on your site.
+
+2. **Link Color**
+   - **Description:** Change the color of the links across the entire website.
+   - **Screenshot:** ![Link Color Setting](https://github.com/user-attachments/assets/link-color-screenshot)
+   - **Usage:** Select a color to apply to all hyperlinks on your site.
+
+3. **Theme Background Color**
+   - **Description:** Change the background color of the theme.
+   - **Screenshot:** ![Background Color Setting](https://github.com/user-attachments/assets/background-color-screenshot)
+   - **Usage:** Pick a color to set as the background for your site.
+
+4. **Smooth Scroll**
+   - **Description:** Enable or disable smooth scrolling on the website.
+   - **Screenshot:** ![Smooth Scroll Setting](https://github.com/user-attachments/assets/smooth-scroll-screenshot)
+   - **Usage:** Toggle the switch to turn smooth scrolling on or off.
+
+5. **Back to Top**
+   - **Description:** Show or hide the "Back to Top" button that appears on the right side of the website.
+   - **Screenshot:** ![Back to Top Setting](https://github.com/user-attachments/assets/back-to-top-screenshot)
+   - **Usage:** Toggle the switch to display or hide the "Back to Top" button.
+ 
+   
+   
+
