@@ -235,4 +235,29 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
    - **Screenshot (Frontend Preview):** ![Site Logo Height Frontend Preview](https://github.com/user-attachments/assets/site-logo-height-frontend-preview)
    - **Usage:** Set height values for different devices.
 
+## Menu > General
+
+### 1. Menu Font Style
+- **Description:** Transform the navigation menu text to uppercase, lowercase, or capitalize.
+- **Options:**
+  - **Uppercase:** Converts all menu text to uppercase letters.
+  - **Lowercase:** Converts all menu text to lowercase letters.
+  - **Capitalize:** Capitalizes the first letter of each menu item.
+- **Screenshot (Backend Setting):** ![Menu Font Style Setting](https://github.com/user-attachments/assets/menu-font-style-screenshot)
+- **Screenshot (Frontend Preview):** ![Menu Font Style Frontend Preview](https://github.com/user-attachments/assets/menu-font-style-frontend-preview)
+- **Usage:** Choose the desired text transformation for your menu items.
+
+### 2. Menu Typography
+- **Description:** Customize the typography settings for the navigation menu.
+  - **Font Family:** Select the font family for the menu text.
+  - **Font Size:** Adjust the font size of the menu text.
+  - **Font Weight:** Set the font weight for the menu text.
+  - **Font Color:** Change the color of the menu text.
+- **Screenshot (Backend Setting):** ![Menu Typography Setting](https://github.com/user-attachments/assets/menu-typography-screenshot)
+- **Screenshot (Frontend Preview):** ![Menu Typography Frontend Preview](https://github.com/user-attachments/assets/menu-typography-frontend-preview)
+- **Usage:** Configure these settings to match your site's design preferences.
+
+*Note: Include screenshots showing both the backend settings in the Admin dashboard and the frontend appearance for reference.*
+
+
 *Note: Attach screenshots from both the admin dashboard showing the theme options and the front end displaying the changes for clarity.*
