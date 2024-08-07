@@ -1,4 +1,4 @@
-# Ostnica Theme Documentation
+![image](https://github.com/user-attachments/assets/ff5b568b-52ab-4545-81c5-742521572549)# Ostnica Theme Documentation
 
 ## 1. Getting Started
 - **Theme Name**: Ostnica
@@ -107,11 +107,17 @@ If you encounter an error while using the bulk action, please try to install the
 ## 6. Setting the Demo Theme as the Homepage
 
 1. By default, you will see the posts page on the homepage, as shown below.
+   ![Screenshot 2024-08-07 152430](https://github.com/user-attachments/assets/9cf8a6a5-3a08-4bb7-b7d3-d8c88a57ec7b)
 
 2. To set the demo import to be visible on the homepage, navigate to _Settings > Reading_.
 
+   ![Set Demo Homepage step 1](https://github.com/user-attachments/assets/0262d03c-6e64-4a9b-8a99-839c40d5565d)
+
 3. In the Reading Settings, under **Your homepage displays**, select the option _A static page_. Then, choose your desired _HomePage_ and _Posts page_ and click on _Save Changes_.
 
+   ![Set Demo Homepage step 2](https://github.com/user-attachments/assets/76835f1b-f3e8-49a9-82f5-406a8236d10d)
+
 4. Now navigate to the homepage, and your selected page will be visible.
+   ![Screenshot 2024-08-07 170901](https://github.com/user-attachments/assets/97f359ab-603f-4a2e-8e32-9bed1747bcbd)
 
    
