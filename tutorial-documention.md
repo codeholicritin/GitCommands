@@ -97,6 +97,11 @@ If you encounter an error while using the bulk action, please try to install the
    
    ![Demo Import Step 2](https://github.com/user-attachments/assets/2076f278-d5a9-4e56-84ce-ec44b65f3bbe)
 
+4. After the demo is imported successfully, you will see a success message as shown below. Click the _Close_ button and go to your homepage.
+
+   ![Demo Import Step 3](https://github.com/user-attachments/assets/818ff6a0-1fde-46ca-9fbc-5970de15cb1e)
+
+**Note:** If you encounter issues with importing the demo theme, ensure you have followed the [General Requirements for the Ostnica Theme](#general-requirements-for-the-ostnica-theme). If the problem persists, try importing the demo theme again.
 
 
    
