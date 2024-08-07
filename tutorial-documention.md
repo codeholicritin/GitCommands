@@ -141,35 +141,98 @@ If you encounter an error while using the bulk action, please try to install the
 
 ## 8. Ostnica Theme Options 
 
+In the Admin dashboard menu, navigate to _Theme Options_ to find various options for customizing your website.
+
 ### General Tab > Theme Styling
 
-In the Admin dashboard menu, navigate to _Theme Options_ to find various options for customizing your website. Inside the _General_ tab, under _Theme Styling_, you will find the following options:
+Under the _General_ tab, in _Theme Styling_, you can customize the following:
 
 1. **Font Family**
    - **Description:** Set the font family for the entire website.
-   - **Screenshot:** ![Font Family Setting](https://github.com/user-attachments/assets/font-family-screenshot)
-   - **Usage:** Choose your preferred font from the dropdown to apply it to all text on your site.
+   - **Screenshot (Backend Setting):** ![Font Family Setting](https://github.com/user-attachments/assets/font-family-screenshot)
+   - **Screenshot (Frontend Preview):** ![Font Family Frontend Preview](https://github.com/user-attachments/assets/font-family-frontend-preview)
+   - **Usage:** Choose a font from the dropdown to apply it site-wide.
 
 2. **Link Color**
-   - **Description:** Change the color of the links across the entire website.
-   - **Screenshot:** ![Link Color Setting](https://github.com/user-attachments/assets/link-color-screenshot)
-   - **Usage:** Select a color to apply to all hyperlinks on your site.
+   - **Description:** Change the color of links throughout the site.
+   - **Screenshot (Backend Setting):** ![Link Color Setting](https://github.com/user-attachments/assets/link-color-screenshot)
+   - **Screenshot (Frontend Preview):** ![Link Color Frontend Preview](https://github.com/user-attachments/assets/link-color-frontend-preview)
+   - **Usage:** Select a color to apply to all hyperlinks.
 
 3. **Theme Background Color**
    - **Description:** Change the background color of the theme.
-   - **Screenshot:** ![Background Color Setting](https://github.com/user-attachments/assets/background-color-screenshot)
-   - **Usage:** Pick a color to set as the background for your site.
+   - **Screenshot (Backend Setting):** ![Background Color Setting](https://github.com/user-attachments/assets/background-color-screenshot)
+   - **Screenshot (Frontend Preview):** ![Background Color Frontend Preview](https://github.com/user-attachments/assets/background-color-frontend-preview)
+   - **Usage:** Choose a color for the site's background.
 
 4. **Smooth Scroll**
-   - **Description:** Enable or disable smooth scrolling on the website.
-   - **Screenshot:** ![Smooth Scroll Setting](https://github.com/user-attachments/assets/smooth-scroll-screenshot)
-   - **Usage:** Toggle the switch to turn smooth scrolling on or off.
+   - **Description:** Enable or disable smooth scrolling.
+   - **Screenshot (Backend Setting):** ![Smooth Scroll Setting](https://github.com/user-attachments/assets/smooth-scroll-screenshot)
+   - **Screenshot (Frontend Preview):** ![Smooth Scroll Frontend Preview](https://github.com/user-attachments/assets/smooth-scroll-frontend-preview)
+   - **Usage:** Toggle to enable or disable smooth scrolling.
 
 5. **Back to Top**
-   - **Description:** Show or hide the "Back to Top" button that appears on the right side of the website.
-   - **Screenshot:** ![Back to Top Setting](https://github.com/user-attachments/assets/back-to-top-screenshot)
-   - **Usage:** Toggle the switch to display or hide the "Back to Top" button.
- 
-   
-   
+   - **Description:** Show or hide the "Back to Top" button on the right side of the site.
+   - **Screenshot (Backend Setting):** ![Back to Top Setting](https://github.com/user-attachments/assets/back-to-top-screenshot)
+   - **Screenshot (Frontend Preview):** ![Back to Top Frontend Preview](https://github.com/user-attachments/assets/back-to-top-frontend-preview)
+   - **Usage:** Toggle to display or hide the button.
 
+### General Tab > Site Identity
+
+Under the _General_ tab, in _Site Identity_, you can adjust the following:
+
+1. **Text Logo**
+   - **Description:** Set a text logo if no default header logo is provided.
+   - **Screenshot (Backend Setting):** ![Text Logo Setting](https://github.com/user-attachments/assets/text-logo-screenshot)
+   - **Screenshot (Frontend Preview):** ![Text Logo Frontend Preview](https://github.com/user-attachments/assets/text-logo-frontend-preview)
+   - **Usage:** Enter the text for your logo.
+
+2. **Text Logo Typography**
+   - **Font Size:** Adjust the font size of the text logo.
+     - **Screenshot (Backend Setting):** ![Font Size Setting](https://github.com/user-attachments/assets/font-size-screenshot)
+     - **Screenshot (Frontend Preview):** ![Font Size Frontend Preview](https://github.com/user-attachments/assets/font-size-frontend-preview)
+   - **Font Color:** Change the color of the text logo.
+     - **Screenshot (Backend Setting):** ![Font Color Setting](https://github.com/user-attachments/assets/font-color-screenshot)
+     - **Screenshot (Frontend Preview):** ![Font Color Frontend Preview](https://github.com/user-attachments/assets/font-color-frontend-preview)
+   - **Font Weight:** Modify the font weight of the text logo.
+     - **Screenshot (Backend Setting):** ![Font Weight Setting](https://github.com/user-attachments/assets/font-weight-screenshot)
+     - **Screenshot (Frontend Preview):** ![Font Weight Frontend Preview](https://github.com/user-attachments/assets/font-weight-frontend-preview)
+   - **Usage:** Style your text logo by adjusting these settings.
+
+3. **Dark Header Logo**
+   - **Description:** Set a logo for dark headers.
+   - **Screenshot (Backend Setting):** ![Dark Header Logo Setting](https://github.com/user-attachments/assets/dark-header-logo-screenshot)
+   - **Screenshot (Frontend Preview):** ![Dark Header Logo Frontend Preview](https://github.com/user-attachments/assets/dark-header-logo-frontend-preview)
+   - **Usage:** Upload a logo for use with dark headers.
+
+4. **Retina Header Logo**
+   - **Description:** Upload a high-resolution logo for Apple devices.
+   - **Screenshot (Backend Setting):** ![Retina Header Logo Setting](https://github.com/user-attachments/assets/retina-header-logo-screenshot)
+   - **Screenshot (Frontend Preview):** ![Retina Header Logo Frontend Preview](https://github.com/user-attachments/assets/retina-header-logo-frontend-preview)
+   - **Usage:** Upload a retina logo for better display on high-resolution screens.
+
+5. **Light Header Logo**
+   - **Description:** Set a logo for light headers.
+   - **Screenshot (Backend Setting):** ![Light Header Logo Setting](https://github.com/user-attachments/assets/light-header-logo-screenshot)
+   - **Screenshot (Frontend Preview):** ![Light Header Logo Frontend Preview](https://github.com/user-attachments/assets/light-header-logo-frontend-preview)
+   - **Usage:** Upload a logo for use with light headers.
+
+6. **Default Header Logo**
+   - **Description:** Set the default logo for the standard header.
+   - **Screenshot (Backend Setting):** ![Default Header Logo Setting](https://github.com/user-attachments/assets/default-header-logo-screenshot)
+   - **Screenshot (Frontend Preview):** ![Default Header Logo Frontend Preview](https://github.com/user-attachments/assets/default-header-logo-frontend-preview)
+   - **Usage:** Upload the default logo for the header.
+
+7. **Site Logo Width**
+   - **Description:** Adjust the logo width for desktop, tablet, and mobile devices.
+   - **Screenshot (Backend Setting):** ![Site Logo Width Setting](https://github.com/user-attachments/assets/site-logo-width-screenshot)
+   - **Screenshot (Frontend Preview):** ![Site Logo Width Frontend Preview](https://github.com/user-attachments/assets/site-logo-width-frontend-preview)
+   - **Usage:** Set width values for different devices.
+
+8. **Site Logo Height**
+   - **Description:** Adjust the logo height for desktop, tablet, and mobile devices.
+   - **Screenshot (Backend Setting):** ![Site Logo Height Setting](https://github.com/user-attachments/assets/site-logo-height-screenshot)
+   - **Screenshot (Frontend Preview):** ![Site Logo Height Frontend Preview](https://github.com/user-attachments/assets/site-logo-height-frontend-preview)
+   - **Usage:** Set height values for different devices.
+
+*Note: Attach screenshots from both the admin dashboard showing the theme options and the front end displaying the changes for clarity.*
