@@ -122,4 +122,15 @@ If you encounter an error while using the bulk action, please try to install the
    
    ![Screenshot 2024-08-07 170901](https://github.com/user-attachments/assets/97f359ab-603f-4a2e-8e32-9bed1747bcbd)
 
-   
+## 7. Setting Up Your Site Menu
+
+1. Navigate to _Appearance > Menus_.
+
+2. Select the _Manage Locations_ tab.
+
+3. In _Manage Locations_, under the **Primary Menu** dropdown, select the menu you want to display. This will be shown on all pages of your website.
+
+4. In _Manage Locations_, under the **Left Menu** dropdown, select the left menu, and under the **Right Menu** dropdown, select the right menu. These will be displayed when you choose the header option _Center Menu Center Logo_ or _Center Logo Left Menu Right Menu_ in _Theme Settings > Header_ under header layout options.
+
+5. Click on _Save Changes_ to apply the settings.
+
