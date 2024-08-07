@@ -92,17 +92,20 @@ If you encounter an error while using the bulk action, please try to install the
 
    ![Demo Import Step 1](https://github.com/user-attachments/assets/d2dad04a-80ee-4c24-a0a9-1de4bc452cb1)
 
-2. You will see the available demo themes. Select the demo theme you want to import.
+2. You will see the available theme demo. Select the theme demo you want to import.
 3. Select the Option _INSTALL COMPLETE PRE-BUILT WEBSITE_ and click on _IMPORT_ button.
    
    ![Demo Import Step 2](https://github.com/user-attachments/assets/2076f278-d5a9-4e56-84ce-ec44b65f3bbe)
 
-4. After the demo is imported successfully, you will see a success message as shown below. Click the _Close_ button and go to your homepage.
+4. After the theme demo is imported successfully, you will see a success message as shown below. Click the _Close_ button and go to your homepage.
 
    ![Demo Import Step 3](https://github.com/user-attachments/assets/818ff6a0-1fde-46ca-9fbc-5970de15cb1e)
 
 > [!Note]
-> If you encounter issues with importing the demo theme, ensure you have followed the [General Requirements for the Ostnica Theme](tutorial-documention.md#2-general-requirements-of-ostnica-theme).
+> If you encounter issues with importing the theme demo, ensure you have followed the [General Requirements for the Ostnica Theme](tutorial-documention.md#2-general-requirements-of-ostnica-theme).
 
+## 6. Setting the Demo Theme as the Homepage
+1. By Default you will see the post page in the homepage as shown below
+2. To Set Demo Import to be visible in homepage navigate 
 
    
