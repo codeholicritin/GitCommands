@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ff5b568b-52ab-4545-81c5-742521572549)# Ostnica Theme Documentation
+# Ostnica Theme Documentation
 
 ## 1. Getting Started
 - **Theme Name**: Ostnica
