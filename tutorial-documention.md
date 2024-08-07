@@ -255,5 +255,56 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Screenshot (Backend Setting):** ![Menu Typography Setting](https://github.com/user-attachments/assets/menu-typography-screenshot)
 - **Screenshot (Frontend Preview):** ![Menu Typography Frontend Preview](https://github.com/user-attachments/assets/menu-typography-frontend-preview)
 - **Usage:** Configure these settings to match your site's design preferences.
-  
+
+## Header > General
+
+### 1. Header Type
+- **Description:** Choose the type of header to display.
+  - **Light Header:** A header with a light background suitable for dark text.
+  - **Dark Header:** A header with a dark background suitable for light text.
+  - **Default Header:** The default header style provided by the theme.
+- **Screenshot (Backend Setting):** ![Header Type Setting](https://github.com/user-attachments/assets/header-type-screenshot)
+- **Screenshot (Frontend Preview):** ![Header Type Frontend Preview](https://github.com/user-attachments/assets/header-type-frontend-preview)
+- **Usage:** Select the header type that best fits your site’s design.
+
+### 2. Sticky Header
+- **Description:** Enable or disable the sticky header feature, which keeps the header fixed at the top of the page as you scroll.
+- **Screenshot (Backend Setting):** ![Sticky Header Setting](https://github.com/user-attachments/assets/sticky-header-screenshot)
+- **Screenshot (Frontend Preview):** ![Sticky Header Frontend Preview](https://github.com/user-attachments/assets/sticky-header-frontend-preview)
+- **Usage:** Toggle the switch to enable or disable the sticky header.
+
+### 3. Transparent Header
+- **Description:** Enable or disable the transparency of the header.
+- **Screenshot (Backend Setting):** ![Transparent Header Setting](https://github.com/user-attachments/assets/transparent-header-screenshot)
+- **Screenshot (Frontend Preview):** ![Transparent Header Frontend Preview](https://github.com/user-attachments/assets/transparent-header-frontend-preview)
+- **Usage:** Toggle the switch to enable or disable header transparency.
+
+### 4. Header Layout
+- **Description:** Select from different header layout styles.
+  - **Hamburger Menu Right:** The hamburger menu icon is positioned on the right.
+  - **Hamburger Menu Full Width:** The hamburger menu icon spans the full width of the header.
+  - **Hamburger Menu Left:** The hamburger menu icon is positioned on the left.
+  - **Simple Menu:** A basic menu layout without additional features.
+  - **Center Menu Center Logo:** The menu and logo are centered within the header.
+  - **Center Logo Left Menu Right Menu:** The logo is centered, with the menu items on the left and right.
+  - **Center Menu Blur Background:** The menu is centered with a blurred background effect.
+- **Screenshot (Backend Setting):** ![Header Layout Setting](https://github.com/user-attachments/assets/header-layout-screenshot)
+- **Screenshot (Frontend Preview):** ![Header Layout Frontend Preview](https://github.com/user-attachments/assets/header-layout-frontend-preview)
+- **Usage:** Choose the layout that best fits your website's design.
+
+### 5. Header Background
+- **Description:** Change the background color of the header.
+- **Screenshot (Backend Setting):** ![Header Background Setting](https://github.com/user-attachments/assets/header-background-screenshot)
+- **Screenshot (Frontend Preview):** ![Header Background Frontend Preview](https://github.com/user-attachments/assets/header-background-frontend-preview)
+- **Usage:** Select a color to set as the header background.
+
+### 6. Header Height
+- **Description:** Set the height of the header for different devices.
+  - **Desktop:** Height of the header on desktop screens.
+  - **Tablet:** Height of the header on tablet screens.
+  - **Mobile:** Height of the header on mobile screens.
+- **Screenshot (Backend Setting):** ![Header Height Setting](https://github.com/user-attachments/assets/header-height-screenshot)
+- **Screenshot (Frontend Preview):** ![Header Height Frontend Preview](https://github.com/user-attachments/assets/header-height-frontend-preview)
+- **Usage:** Enter height values for desktop, tablet, and mobile devices to adjust the header’s size.
+
 *Note: Attach screenshots from both the admin dashboard showing the theme options and the front end displaying the changes for clarity.*
