@@ -148,10 +148,10 @@ In the Admin dashboard menu, navigate to _Theme Options_ to find various options
 Under the _General_ tab, in _Theme Styling_, you can customize the following:
 
 1. **Font Family**
-   - **Description:** Set the font family for the entire website.
-   - **Screenshot (Backend Setting):** ![Font Family Setting](https://github.com/user-attachments/assets/font-family-screenshot)
-   - **Screenshot (Frontend Preview):** ![Font Family Frontend Preview](https://github.com/user-attachments/assets/font-family-frontend-preview)
-   - **Usage:** Choose a font from the dropdown to apply it site-wide.
+- **Description:** Theme Options offers you a list of font families to customize the appearance of text across your entire website.
+- **Usage:** Select a font family from the list to apply it to all text elements site-wide.
+- **Screenshot (Backend Setting):** ![Font Family Setting](https://github.com/user-attachments/assets/font-family-screenshot)
+- **Screenshot (Frontend Preview):** ![Font Family Preview](https://github.com/user-attachments/assets/font-family-preview-screenshot)
 
 2. **Link Color**
    - **Description:** Change the color of links throughout the site.
