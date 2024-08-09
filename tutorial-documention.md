@@ -307,4 +307,28 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Screenshot (Frontend Preview):** ![Header Height Frontend Preview](https://github.com/user-attachments/assets/header-height-frontend-preview)
 - **Usage:** Enter height values for desktop, tablet, and mobile devices to adjust the header’s size.
 
+## Page > General
+
+### 1. Sidebar
+- **Description:** Enable or disable the sidebar on the post page, which allows you to display widgets or posts. The posts are displayed only when you select them from the "Select Page" options. 
+- **Sidebar Widgets:** To display widgets in the left sidebar, navigate to _Appearance > Widgets > Left Sidebar_ and add content to show in the sidebar.
+- **Screenshot (Backend Setting):** ![Sidebar Setting](https://github.com/user-attachments/assets/sidebar-setting-screenshot)
+- **Screenshot (Frontend Preview):** ![Sidebar Frontend Preview](https://github.com/user-attachments/assets/sidebar-frontend-preview)
+- **Usage:** Toggle the switch to enable or disable the sidebar on the post page.
+
+### 2. Select Sidebar Position
+- **Description:** Choose the position where the sidebar will appear on the page. The available options include:
+  - **Left Sidebar:** Displays the sidebar on the left side of the page.
+  - **Right Sidebar:** Displays the sidebar on the right side of the page.
+  - **Both Sidebars:** Displays sidebars on both the left and right sides of the page.
+- **Screenshot (Backend Setting):** ![Sidebar Position Setting](https://github.com/user-attachments/assets/sidebar-position-setting-screenshot)
+- **Screenshot (Frontend Preview):** ![Sidebar Position Frontend Preview](https://github.com/user-attachments/assets/sidebar-position-frontend-preview)
+- **Usage:** Select the desired sidebar position to apply it to your pages.
+
+### 3. Select Page
+- **Description:** Provides a list of posts that you can choose to display in the sidebar. This feature allows you to curate specific content that appears alongside your main content.
+- **Screenshot (Backend Setting):** ![Select Page Setting](https://github.com/user-attachments/assets/select-page-setting-screenshot)
+- **Screenshot (Frontend Preview):** ![Select Page Frontend Preview](https://github.com/user-attachments/assets/select-page-frontend-preview)
+- **Usage:** Select the posts from the provided list to display them in the sidebar.
+
 *Note: Attach screenshots from both the admin dashboard showing the theme options and the front end displaying the changes for clarity.*
