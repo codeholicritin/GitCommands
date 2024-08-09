@@ -355,6 +355,24 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
     - **Screenshot (Backend Setting):** ![Posts Per Page Backend](https://github.com/user-attachments/assets/posts-per-page-screenshot)
     - **Screenshot (Frontend Preview):** ![Posts Per Page Frontend](https://github.com/user-attachments/assets/posts-per-page-frontend-screenshot)
 
+### 6. Post Page Layout
+- **Description:** Choose the design layout for individual post pages.
+- **Options:** 
+  - **Layout 1**
+  - **Layout 2**
+- **Usage:** Select the layout that best fits your design preferences for individual posts.
+- **Screenshot (Backend Setting):** ![Post Page Layout Backend](https://github.com/user-attachments/assets/post-page-layout-screenshot)
+- **Screenshot (Frontend Preview):** ![Post Page Layout Frontend](https://github.com/user-attachments/assets/post-page-layout-frontend-screenshot)
+
+### 7. Post List Page Settings
+- **Description:** Customize the design of the post list page.
+- **Options:** 
+  - **Design 1**
+  - **Design 2**
+  - **Design 3**
+- **Usage:** Select the desired design to configure how posts are displayed in the list.
+- **Screenshot (Backend Setting):** ![Post List Page Settings Backend](https://github.com/user-attachments/assets/post-list-page-settings-screenshot)
+- **Screenshot (Frontend Preview):** ![Post List Page Settings Frontend](https://github.com/user-attachments/assets/post-list-page-settings-frontend-screenshot)
 
 ## Footer > Footer Settings
 
