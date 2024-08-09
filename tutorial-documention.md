@@ -330,6 +330,31 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Screenshot (Backend Setting):** ![Select Page Setting](https://github.com/user-attachments/assets/select-page-setting-screenshot)
 - **Screenshot (Frontend Preview):** ![Select Page Frontend Preview](https://github.com/user-attachments/assets/select-page-frontend-preview)
 - **Usage:** Select the posts from the provided list to display them in the sidebar.
+  
+### 4. Portfolio Page Layout
+- **Description:** Choose the design layout for your portfolio page.
+- **Options:** 
+  - **Layout 1:** [Description or screenshot of Layout 1]
+  - **Layout 2:** [Description or screenshot of Layout 2]
+- **Usage:** Select the layout that best fits your portfolio design preferences.
+- **Screenshot (Backend Setting):** ![Portfolio Page Layout Backend](https://github.com/user-attachments/assets/portfolio-page-layout-screenshot)
+- **Screenshot (Frontend Preview):** ![Portfolio Page Layout Frontend](https://github.com/user-attachments/assets/portfolio-page-layout-frontend-screenshot)
+
+### 5. Portfolio List Page Settings
+- **Description:** Configure settings for the portfolio list page to customize its appearance and functionality.
+- **Select Settings for Portfolio List Page:**
+  - **Post Order:** 
+    - **Description:** Determine the order in which posts appear on the portfolio list page (ascending or descending).
+    - **Usage:** Choose the preferred order for displaying portfolio items.
+    - **Screenshot (Backend Setting):** ![Post Order Backend](https://github.com/user-attachments/assets/post-order-screenshot)
+    - **Screenshot (Frontend Preview):** ![Post Order Frontend](https://github.com/user-attachments/assets/post-order-frontend-screenshot)
+
+  - **Posts Per Page:** 
+    - **Description:** Set the number of posts to display per page on the portfolio list page.
+    - **Usage:** Enter the desired number of posts to show on each page of the portfolio list.
+    - **Screenshot (Backend Setting):** ![Posts Per Page Backend](https://github.com/user-attachments/assets/posts-per-page-screenshot)
+    - **Screenshot (Frontend Preview):** ![Posts Per Page Frontend](https://github.com/user-attachments/assets/posts-per-page-frontend-screenshot)
+
 
 ## Footer > Footer Settings
 
