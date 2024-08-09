@@ -364,15 +364,21 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Screenshot (Backend Setting):** ![Post Page Layout Backend](https://github.com/user-attachments/assets/post-page-layout-screenshot)
 - **Screenshot (Frontend Preview):** ![Post Page Layout Frontend](https://github.com/user-attachments/assets/post-page-layout-frontend-screenshot)
 
-### 7. Post List Page Settings
-- **Description:** Customize the design of the post list page.
-- **Options:** 
-  - **Design 1**
-  - **Design 2**
-  - **Design 3**
-- **Usage:** Select the desired design to configure how posts are displayed in the list.
-- **Screenshot (Backend Setting):** ![Post List Page Settings Backend](https://github.com/user-attachments/assets/post-list-page-settings-screenshot)
-- **Screenshot (Frontend Preview):** ![Post List Page Settings Frontend](https://github.com/user-attachments/assets/post-list-page-settings-frontend-screenshot)
+### 7. Portfolio List Page Settings
+- **Description:** Configure settings for the portfolio list page to control post display.
+- **Post Order:** 
+  - **Description:** Arrange posts in ascending or descending order.
+  - **Options:**
+    - **Ascending:** Posts will be displayed from oldest to newest.
+    - **Descending:** Posts will be displayed from newest to oldest.
+  - **Screenshot (Backend Setting):** ![Post Order Backend](https://github.com/user-attachments/assets/post-order-screenshot)
+  
+- **Posts Per Page:** 
+  - **Description:** Set the number of posts to display per page in the portfolio list.
+  - **Usage:** Enter the desired number to limit the posts shown on each page.
+  - **Screenshot (Backend Setting):** ![Posts Per Page Backend](https://github.com/user-attachments/assets/posts-per-page-screenshot)
+
+- **Screenshot (Frontend Preview):** ![Portfolio List Page Settings Frontend](https://github.com/user-attachments/assets/portfolio-list-page-settings-frontend-screenshot)
 
 ## Footer > Footer Settings
 
