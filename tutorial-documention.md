@@ -331,5 +331,11 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Screenshot (Frontend Preview):** ![Select Page Frontend Preview](https://github.com/user-attachments/assets/select-page-frontend-preview)
 - **Usage:** Select the posts from the provided list to display them in the sidebar.
 
+## Reset > Reset All Settings
+
+### Reset All Settings
+- **Description:** As the name suggests, this option resets the theme settings to their default state. When selected, all applied theme settings will be removed, and the theme will revert to its original configuration.
+- **Screenshot (Backend Setting):** ![Reset All Settings](https://github.com/user-attachments/assets/reset-all-settings-screenshot)
+- **Usage:** Use this option if you want to restore the theme to its default settings, removing any customizations you've made.
 
 *Note: Attach screenshots from both the admin dashboard showing the theme options and the front end displaying the changes for clarity.*
