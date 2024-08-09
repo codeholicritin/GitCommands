@@ -310,8 +310,8 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 ## Page > General
 
 ### 1. Sidebar
-- **Description:** Enable or disable the sidebar on the post page, which allows you to display widgets or posts. The posts are displayed only when you select them from the "Select Page" options. 
-- **Sidebar Widgets:** To display widgets in the left sidebar, navigate to _Appearance > Widgets > Left Sidebar_ and add content to show in the sidebar.
+- **Description:** Enable or disable the sidebar on the post page, allowing you to display widgets or posts. Posts are displayed only when you select them from the "Select Page" options.
+- **Sidebar Widgets:** To display widgets in the left sidebar, navigate to _Appearance > Widgets > Left Sidebar_ and add content. For the right sidebar, navigate to _Appearance > Widgets > Right Sidebar_ and add your content.
 - **Screenshot (Backend Setting):** ![Sidebar Setting](https://github.com/user-attachments/assets/sidebar-setting-screenshot)
 - **Screenshot (Frontend Preview):** ![Sidebar Frontend Preview](https://github.com/user-attachments/assets/sidebar-frontend-preview)
 - **Usage:** Toggle the switch to enable or disable the sidebar on the post page.
@@ -330,5 +330,6 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Screenshot (Backend Setting):** ![Select Page Setting](https://github.com/user-attachments/assets/select-page-setting-screenshot)
 - **Screenshot (Frontend Preview):** ![Select Page Frontend Preview](https://github.com/user-attachments/assets/select-page-frontend-preview)
 - **Usage:** Select the posts from the provided list to display them in the sidebar.
+
 
 *Note: Attach screenshots from both the admin dashboard showing the theme options and the front end displaying the changes for clarity.*
