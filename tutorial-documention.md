@@ -154,7 +154,9 @@ Under the _General_ tab, in _Theme Styling_, you can customize the following:
 
   ![1](https://github.com/user-attachments/assets/bdc64b24-20df-413b-8002-f3eeb1714b2c)
   
-- **Screenshot (Frontend Preview):** ![Font Family Preview](https://github.com/user-attachments/assets/font-family-preview-screenshot)
+- **Screenshot (Frontend Preview):**
+
+   ![Screenshot 2024-08-10 182803](https://github.com/user-attachments/assets/61351ac7-a423-4d3f-983e-c8fe906988b7)
 
 2. **Link Color**
    - **Description:** Change the color of links throughout the site.
