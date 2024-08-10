@@ -150,7 +150,7 @@ Under the _General_ tab, in _Theme Styling_, you can customize the following:
 1. **Font Family**
 - **Description:** Theme Options offers you a list of font families to customize the appearance of text across your entire website.
 - **Usage:** Select a font family from the list to apply it to all text elements site-wide.
-- **Screenshot (Backend Setting):** ![Font Family Setting](https://github.com/user-attachments/assets/font-family-screenshot)
+- **Screenshot (Backend Setting):** ![1](https://github.com/user-attachments/assets/bdc64b24-20df-413b-8002-f3eeb1714b2c)
 - **Screenshot (Frontend Preview):** ![Font Family Preview](https://github.com/user-attachments/assets/font-family-preview-screenshot)
 
 2. **Link Color**
