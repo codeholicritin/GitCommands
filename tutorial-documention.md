@@ -223,8 +223,14 @@ Under the _General_ tab, in _Theme Styling_, you can customize the following:
 
 2. **Back to Top**
    - **Description:** Show or hide the "Back to Top" button on the right side of the site.
-   - **Screenshot (Backend Setting):** ![Back to Top Setting](https://github.com/user-attachments/assets/back-to-top-screenshot)
-   - **Screenshot (Frontend Preview):** ![Back to Top Frontend Preview](https://github.com/user-attachments/assets/back-to-top-frontend-preview)
+   - **Screenshot (Backend Setting):** 
+
+      ![Back To Top Theme Options Settings](https://github.com/user-attachments/assets/107baa77-62e9-4923-b463-10b50deaf49d)
+
+   - **Screenshot (Frontend Preview):**
+
+      ![Before](https://github.com/user-attachments/assets/69afcd1c-8549-4b7a-b603-47c0fe9a25b1)
+
    - **Usage:** Toggle to display or hide the button.
 
 ### General Tab > Site Identity
