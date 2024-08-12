@@ -239,14 +239,26 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
 1. **Text Logo**
    - **Description:** Set a text logo if no default header logo is provided.
-   - **Screenshot (Backend Setting):** ![Text Logo Setting](https://github.com/user-attachments/assets/text-logo-screenshot)
-   - **Screenshot (Frontend Preview):** ![Text Logo Frontend Preview](https://github.com/user-attachments/assets/text-logo-frontend-preview)
+   - **Screenshot (Backend Setting):** 
+      
+      ![Text Logo Settings Theme Options](https://github.com/user-attachments/assets/eee3faf2-d3b8-401f-a360-1b033ba7840c)
+
+   - **Screenshot (Frontend Preview):** 
+
+      ![Screenshot 2024-08-12 145556](https://github.com/user-attachments/assets/78863b74-39b6-4636-813e-472a3a068ea0)
+   
    - **Usage:** Enter the text for your logo.
 
-2. **Text Logo Typography**
+1. **Text Logo Typography**
    - **Font Size:** Adjust the font size of the text logo.
-     - **Screenshot (Backend Setting):** ![Font Size Setting](https://github.com/user-attachments/assets/font-size-screenshot)
-     - **Screenshot (Frontend Preview):** ![Font Size Frontend Preview](https://github.com/user-attachments/assets/font-size-frontend-preview)
+     - **Screenshot (Backend Setting):**
+    
+       ![Font Size Text Typography Theme Options Settings](https://github.com/user-attachments/assets/a0d39616-b5b6-4baf-8070-f1ce631f6308)
+      
+     - **Screenshot (Frontend Preview):**
+    
+       ![Screenshot 2024-08-12 145703](https://github.com/user-attachments/assets/23faba0a-62df-444e-88ee-7c5e4f53ca8a)  
+
    - **Font Color:** Change the color of the text logo.
      - **Screenshot (Backend Setting):** ![Font Color Setting](https://github.com/user-attachments/assets/font-color-screenshot)
      - **Screenshot (Frontend Preview):** ![Font Color Frontend Preview](https://github.com/user-attachments/assets/font-color-frontend-preview)
@@ -255,37 +267,37 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
      - **Screenshot (Frontend Preview):** ![Font Weight Frontend Preview](https://github.com/user-attachments/assets/font-weight-frontend-preview)
    - **Usage:** Style your text logo by adjusting these settings.
 
-3. **Dark Header Logo**
+1. **Dark Header Logo**
    - **Description:** Set a logo for dark headers.
    - **Screenshot (Backend Setting):** ![Dark Header Logo Setting](https://github.com/user-attachments/assets/dark-header-logo-screenshot)
    - **Screenshot (Frontend Preview):** ![Dark Header Logo Frontend Preview](https://github.com/user-attachments/assets/dark-header-logo-frontend-preview)
    - **Usage:** Upload a logo for use with dark headers.
 
-4. **Retina Header Logo**
+2. **Retina Header Logo**
    - **Description:** Upload a high-resolution logo for Apple devices.
    - **Screenshot (Backend Setting):** ![Retina Header Logo Setting](https://github.com/user-attachments/assets/retina-header-logo-screenshot)
    - **Screenshot (Frontend Preview):** ![Retina Header Logo Frontend Preview](https://github.com/user-attachments/assets/retina-header-logo-frontend-preview)
    - **Usage:** Upload a retina logo for better display on high-resolution screens.
 
-5. **Light Header Logo**
+3. **Light Header Logo**
    - **Description:** Set a logo for light headers.
    - **Screenshot (Backend Setting):** ![Light Header Logo Setting](https://github.com/user-attachments/assets/light-header-logo-screenshot)
    - **Screenshot (Frontend Preview):** ![Light Header Logo Frontend Preview](https://github.com/user-attachments/assets/light-header-logo-frontend-preview)
    - **Usage:** Upload a logo for use with light headers.
 
-6. **Default Header Logo**
+4. **Default Header Logo**
    - **Description:** Set the default logo for the standard header.
    - **Screenshot (Backend Setting):** ![Default Header Logo Setting](https://github.com/user-attachments/assets/default-header-logo-screenshot)
    - **Screenshot (Frontend Preview):** ![Default Header Logo Frontend Preview](https://github.com/user-attachments/assets/default-header-logo-frontend-preview)
    - **Usage:** Upload the default logo for the header.
 
-7. **Site Logo Width**
+5. **Site Logo Width**
    - **Description:** Adjust the logo width for desktop, tablet, and mobile devices.
    - **Screenshot (Backend Setting):** ![Site Logo Width Setting](https://github.com/user-attachments/assets/site-logo-width-screenshot)
    - **Screenshot (Frontend Preview):** ![Site Logo Width Frontend Preview](https://github.com/user-attachments/assets/site-logo-width-frontend-preview)
    - **Usage:** Set width values for different devices.
 
-8. **Site Logo Height**
+6. **Site Logo Height**
    - **Description:** Adjust the logo height for desktop, tablet, and mobile devices.
    - **Screenshot (Backend Setting):** ![Site Logo Height Setting](https://github.com/user-attachments/assets/site-logo-height-screenshot)
    - **Screenshot (Frontend Preview):** ![Site Logo Height Frontend Preview](https://github.com/user-attachments/assets/site-logo-height-frontend-preview)
