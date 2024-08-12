@@ -359,8 +359,14 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
   - **Uppercase:** Converts all menu text to uppercase letters.
   - **Lowercase:** Converts all menu text to lowercase letters.
   - **Capitalize:** Capitalizes the first letter of each menu item.
-- **Screenshot (Backend Setting):** ![Menu Font Style Setting](https://github.com/user-attachments/assets/menu-font-style-screenshot)
-- **Screenshot (Frontend Preview):** ![Menu Font Style Frontend Preview](https://github.com/user-attachments/assets/menu-font-style-frontend-preview)
+- **Screenshot (Backend Setting):** 
+   
+   ![Menu Font Style Theme Settings](https://github.com/user-attachments/assets/127bb6e6-74fd-4fce-b129-b38e192af223)
+
+- **Screenshot (Frontend Preview):** 
+
+   ![Screenshot 2024-08-12 183312](https://github.com/user-attachments/assets/0da16f24-7e1c-427f-bb60-89aed021eb87)
+
 - **Usage:** Choose the desired text transformation for your menu items.
 
 ### 2. Menu Typography
