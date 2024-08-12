@@ -280,9 +280,15 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
    - **Usage:** Style your text logo by adjusting these settings.
 
 1. **Dark Header Logo**
-   - **Description:** This option allows you to set a logo specifically for dark headers. The logo will only be visible if the selected header type is "Dark Header." To set a dark header, navigate to _Theme Options >          Header > General > Header Type_ and select "Dark Header."
-   - **Screenshot (Backend Setting):** ![Dark Header Logo Setting](https://github.com/user-attachments/assets/dark-header-logo-screenshot)
-   - **Screenshot (Frontend Preview):** ![Dark Header Logo Frontend Preview](https://github.com/user-attachments/assets/dark-header-logo-frontend-preview)
+   - **Description:** This option allows you to set a logo specifically for dark headers. The logo will only be visible if the selected header type is "Dark Header." To         set a dark header, navigate to _Theme Options > Header > General > Header Type_ and select "Dark Header."
+   - **Screenshot (Backend Setting):** 
+
+      ![Dark Logo Theme Options Settings](https://github.com/user-attachments/assets/78688ed2-a8ad-4147-95e4-f27cec4a162d)
+
+   - **Screenshot (Frontend Preview):** 
+
+      ![Screenshot 2024-08-12 181023](https://github.com/user-attachments/assets/de2f8d01-81c8-430e-89d0-86d98fe3473c)
+
    - **Usage:** Upload a logo for use with dark headers.
 
 2. **Retina Header Logo**
