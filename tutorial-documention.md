@@ -238,7 +238,7 @@ Under the _General_ tab, in _Theme Styling_, you can customize the following:
 Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
 1. **Text Logo**
-   - **Description:** Set a text logo if no default header logo is provided.
+   - **Description:** This theme option allows you to create a custom text-based logo that will be displayed in the header of your website. The text logo will only appear       if no default header logo is set.
    - **Screenshot (Backend Setting):** 
       
       ![Text Logo Settings Theme Options](https://github.com/user-attachments/assets/eee3faf2-d3b8-401f-a360-1b033ba7840c)
@@ -250,7 +250,7 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
    - **Usage:** Enter the text for your logo.
 
 1. **Text Logo Typography**
-   - **Font Size:** Adjust the font size of the text logo.
+   - **Font Size:** This theme option allows you to customize the font size of the text-based logo.
      - **Screenshot (Backend Setting):**
     
        ![Font Size Text Typography Theme Options Settings](https://github.com/user-attachments/assets/a0d39616-b5b6-4baf-8070-f1ce631f6308)
@@ -259,7 +259,7 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
     
        ![Screenshot 2024-08-12 145703](https://github.com/user-attachments/assets/23faba0a-62df-444e-88ee-7c5e4f53ca8a)  
 
-   - **Font Color:** Change the color of the text logo.
+   - **Font Color:** This theme option allows you to pick a custom color for your text-based logo.
      - **Screenshot (Backend Setting):**
    
        ![Font Color Text Typography Theme Options Settings (1)](https://github.com/user-attachments/assets/109eed25-7ee3-4ebd-badc-b9c062238dcb)
@@ -268,7 +268,7 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
        ![Screenshot 2024-08-12 150153](https://github.com/user-attachments/assets/c07be733-a538-476f-b24c-32fe6cf3ebac)
      
-   - **Font Weight:** Modify the font weight of the text logo.
+   - **Font Weight:** This theme option modify the font weight of the text-based logo.
      - **Screenshot (Backend Setting):** 
 
        ![Font Weight Text Typography Theme Options Settings](https://github.com/user-attachments/assets/6b1bd6a5-99f8-4340-a5cd-9b0ac820d2b5)
@@ -280,7 +280,7 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
    - **Usage:** Style your text logo by adjusting these settings.
 
 1. **Dark Header Logo**
-   - **Description:** Set a logo for dark headers.
+   - **Description:** This option allows you to set a logo specifically for dark headers. The logo will only be visible if the selected header type is "Dark Header." To set a dark header, navigate to _Theme Options >          Header > General > Header Type_ and select "Dark Header."
    - **Screenshot (Backend Setting):** ![Dark Header Logo Setting](https://github.com/user-attachments/assets/dark-header-logo-screenshot)
    - **Screenshot (Frontend Preview):** ![Dark Header Logo Frontend Preview](https://github.com/user-attachments/assets/dark-header-logo-frontend-preview)
    - **Usage:** Upload a logo for use with dark headers.
