@@ -190,7 +190,7 @@ Under the _General_ tab, in _Theme Styling_, you can customize the following:
 
    - **Screenshot (Frontend Preview):**
 
-      [Click here to watch the video](https://github.com/user-attachments/assets/71dd3958-8990-4c23-a356-479d032c2493)
+      [Click here to watch the video](https://github.com/user-attachments/assets/571049c1-3bf8-457f-8356-303b3fcfd036)
 
    - **Usage:** Toggle to enable or disable smooth scrolling.
 > [!IMPORTANT]
