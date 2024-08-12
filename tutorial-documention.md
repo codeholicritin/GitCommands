@@ -193,6 +193,20 @@ Under the _General_ tab, in _Theme Styling_, you can customize the following:
       [Click here to watch the video](https://github.com/user-attachments/assets/71dd3958-8990-4c23-a356-479d032c2493)
 
    - **Usage:** Toggle to enable or disable smooth scrolling.
+> [!IMPORTANT]
+> To see the above settings work, you need to enable smooth scrolling in your browser:
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;**Chrome:** </br></br>
+> &nbsp;&nbsp;&nbsp;&nbsp;1. Copy and paste the following URL into your Chrome address bar:
+> ```
+> chrome://flags/
+> ```
+> </br>&nbsp;&nbsp;&nbsp;&nbsp;2. Find "Smooth Scrolling" in the list, select "Enabled" from the dropdown, and relaunch Chrome.
+> </br>&nbsp;&nbsp;&nbsp;&nbsp;3. Refer to the screenshot below for guidance.
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;**Firefox:**
+> &nbsp;&nbsp;&nbsp;&nbsp;1. Navigate to Firefox settings and enable smooth scrolling.
+
 
 2. **Back to Top**
    - **Description:** Show or hide the "Back to Top" button on the right side of the site.
