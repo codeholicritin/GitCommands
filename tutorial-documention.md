@@ -305,7 +305,10 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
 2. **Light Header Logo**
    - **Description:** Set a logo for light headers.
-   - **Screenshot (Backend Setting):** ![Light Header Logo Setting](https://github.com/user-attachments/assets/light-header-logo-screenshot)
+   - **Screenshot (Backend Setting):**
+
+     ![Light Logo Theme Options Settings](https://github.com/user-attachments/assets/570b05ba-704f-4a08-8abb-366bde4e8378)
+
    - **Screenshot (Frontend Preview):** 
 
       ![Screenshot 2024-08-12 182042](https://github.com/user-attachments/assets/c984680c-0406-432e-8001-63586efb5444)
@@ -320,7 +323,7 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
    - **Screenshot (Frontend Preview):**
 
-      ![Logo Frontend View](https://github.com/user-attachments/assets/385e8220-8dca-4c51-8862-a12e366008a7)
+      ![Screenshot 2024-08-12 182042](https://github.com/user-attachments/assets/c984680c-0406-432e-8001-63586efb5444)
 
    - **Usage:** Upload the default logo for the header.
 
