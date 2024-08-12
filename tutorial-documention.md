@@ -299,8 +299,14 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
 4. **Default Header Logo**
    - **Description:** Set the default logo for the standard header.
-   - **Screenshot (Backend Setting):** ![Default Header Logo Setting](https://github.com/user-attachments/assets/default-header-logo-screenshot)
-   - **Screenshot (Frontend Preview):** ![Default Header Logo Frontend Preview](https://github.com/user-attachments/assets/default-header-logo-frontend-preview)
+   - **Screenshot (Backend Setting):**
+
+     ![Default Logo Theme Options Settings](https://github.com/user-attachments/assets/92461216-fee9-4423-b420-d6a6c796cf8f)
+
+   - **Screenshot (Frontend Preview):**
+
+      ![Logo Frontend View](https://github.com/user-attachments/assets/385e8220-8dca-4c51-8862-a12e366008a7)
+
    - **Usage:** Upload the default logo for the header.
 
 5. **Site Logo Width**
