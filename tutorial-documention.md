@@ -260,8 +260,14 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
        ![Screenshot 2024-08-12 145703](https://github.com/user-attachments/assets/23faba0a-62df-444e-88ee-7c5e4f53ca8a)  
 
    - **Font Color:** Change the color of the text logo.
-     - **Screenshot (Backend Setting):** ![Font Color Setting](https://github.com/user-attachments/assets/font-color-screenshot)
-     - **Screenshot (Frontend Preview):** ![Font Color Frontend Preview](https://github.com/user-attachments/assets/font-color-frontend-preview)
+     - **Screenshot (Backend Setting):**
+   
+       ![Font Color Text Typography Theme Options Settings (1)](https://github.com/user-attachments/assets/109eed25-7ee3-4ebd-badc-b9c062238dcb)
+        
+     - **Screenshot (Frontend Preview):** 
+
+       ![Screenshot 2024-08-12 150153](https://github.com/user-attachments/assets/c07be733-a538-476f-b24c-32fe6cf3ebac)
+     
    - **Font Weight:** Modify the font weight of the text logo.
      - **Screenshot (Backend Setting):** ![Font Weight Setting](https://github.com/user-attachments/assets/font-weight-screenshot)
      - **Screenshot (Frontend Preview):** ![Font Weight Frontend Preview](https://github.com/user-attachments/assets/font-weight-frontend-preview)
