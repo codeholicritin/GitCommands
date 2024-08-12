@@ -269,8 +269,14 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
        ![Screenshot 2024-08-12 150153](https://github.com/user-attachments/assets/c07be733-a538-476f-b24c-32fe6cf3ebac)
      
    - **Font Weight:** Modify the font weight of the text logo.
-     - **Screenshot (Backend Setting):** ![Font Weight Setting](https://github.com/user-attachments/assets/font-weight-screenshot)
-     - **Screenshot (Frontend Preview):** ![Font Weight Frontend Preview](https://github.com/user-attachments/assets/font-weight-frontend-preview)
+     - **Screenshot (Backend Setting):** 
+
+       ![Font Weight Text Typography Theme Options Settings](https://github.com/user-attachments/assets/6b1bd6a5-99f8-4340-a5cd-9b0ac820d2b5)
+     
+     - **Screenshot (Frontend Preview):**
+    
+       ![Screenshot 2024-08-12 150733](https://github.com/user-attachments/assets/0127e4d0-5441-4f9e-9d81-bf8fa1ca4910)
+
    - **Usage:** Style your text logo by adjusting these settings.
 
 1. **Dark Header Logo**
