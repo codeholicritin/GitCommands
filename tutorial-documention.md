@@ -148,37 +148,47 @@ In the Admin dashboard menu, navigate to _Theme Options_ to find various options
 Under the _General_ tab, in _Theme Styling_, you can customize the following:
 
 1. **Font Family**
-- **Description:** Theme Options offers you a list of font families to customize the appearance of text across your entire website.
-- **Usage:** Select a font family from the list to apply it to all text elements site-wide.
-- **Screenshot (Backend Setting):**
+   - **Description:** Theme Options offers you a list of font families to customize the appearance of text across your entire website.
+   - **Usage:** Select a font family from the list to apply it to all text elements site-wide.
+   - **Screenshot (Backend Setting):**
 
-     ![1](https://github.com/user-attachments/assets/bdc64b24-20df-413b-8002-f3eeb1714b2c)
+        ![1](https://github.com/user-attachments/assets/bdc64b24-20df-413b-8002-f3eeb1714b2c)
   
-- **Screenshot (Frontend Preview):**
+   - **Screenshot (Frontend Preview):**
 
-     ![Screenshot 2024-08-10 182803](https://github.com/user-attachments/assets/61351ac7-a423-4d3f-983e-c8fe906988b7)
+        ![Screenshot 2024-08-10 182803](https://github.com/user-attachments/assets/61351ac7-a423-4d3f-983e-c8fe906988b7)
 
 2. **Link Color**
-   - **Description:** Change the color of links throughout the site.
+   - **Description:** This Theme Option allows you to change the color of all links across your entire website. By customizing the link color, you can ensure that                hyperlinks stand out or blend in with your site's design, improving both aesthetics and user experience.
    - **Screenshot (Backend Setting):**
-         ![Link Color Theme Settings](https://github.com/user-attachments/assets/2ff0626d-5545-4169-8414-9753f4ecb6ac)
 
-   - **Screenshot (Frontend Preview):** ![Link Color Frontend Preview](https://github.com/user-attachments/assets/link-color-frontend-preview)
-   - **Usage:** Select a color to apply to all hyperlinks.
+      ![Link Color Theme Settings](https://github.com/user-attachments/assets/2ff0626d-5545-4169-8414-9753f4ecb6ac)
+
+   - **Screenshot (Frontend Preview):**
+
+      ![Link Color Theme Settings Frontend](https://github.com/user-attachments/assets/dcaa1552-9210-4554-9d3e-1ae108019007)
+
+   - **Usage:** Select a color from the palette to apply to all hyperlinks. This change will reflect site-wide, making it easier for visitors to recognize and interact          with links on your pages.
 
 2. **Theme Background Color**
-   - **Description:** Change the background color of the theme.
-   - **Screenshot (Backend Setting):** ![Background Color Setting](https://github.com/user-attachments/assets/background-color-screenshot)
-   - **Screenshot (Frontend Preview):** ![Background Color Frontend Preview](https://github.com/user-attachments/assets/background-color-frontend-preview)
-   - **Usage:** Choose a color for the site's background.
+   - **Description:** This Theme Option allows you to change the background color of your entire website. By selecting a color that complements your brand or design, you         can create a cohesive and visually appealing look for your site.
+   - **Screenshot (Backend Setting):**
+      
+      ![Background color settings theme Options](https://github.com/user-attachments/assets/ed597a79-065f-4c3f-8823-9a6fb5afd0d8)
 
-3. **Smooth Scroll**
+   - **Screenshot (Frontend Preview):**
+
+      ![Background Color Settings Preview](https://github.com/user-attachments/assets/2b54f971-c244-4bc0-9d70-6dbb10307eb1)
+
+   - **Usage:** Choose a color from the palette to set as the background for your website. This change will be applied to all pages, giving your site a consistent and            customized appearance.
+
+2. **Smooth Scroll**
    - **Description:** Enable or disable smooth scrolling.
    - **Screenshot (Backend Setting):** ![Smooth Scroll Setting](https://github.com/user-attachments/assets/smooth-scroll-screenshot)
    - **Screenshot (Frontend Preview):** ![Smooth Scroll Frontend Preview](https://github.com/user-attachments/assets/smooth-scroll-frontend-preview)
    - **Usage:** Toggle to enable or disable smooth scrolling.
 
-4. **Back to Top**
+3. **Back to Top**
    - **Description:** Show or hide the "Back to Top" button on the right side of the site.
    - **Screenshot (Backend Setting):** ![Back to Top Setting](https://github.com/user-attachments/assets/back-to-top-screenshot)
    - **Screenshot (Frontend Preview):** ![Back to Top Frontend Preview](https://github.com/user-attachments/assets/back-to-top-frontend-preview)
