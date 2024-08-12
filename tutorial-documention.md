@@ -183,10 +183,10 @@ Under the _General_ tab, in _Theme Styling_, you can customize the following:
    - **Usage:** Choose a color from the palette to set as the background for your website. This change will be applied to all pages, giving your site a consistent and            customized appearance.
 
 2. **Smooth Scroll**
-   - **Description:** Enable or disable smooth scrolling.
+   - **Description:** This theme option allows you to enable or disable smooth scrolling behavior on your website, enhancing the user experience by providing a smoother          scroll effect.
    - **Screenshot (Backend Setting):**
 
-      ![Screenshot 2024-08-12 120950](https://github.com/user-attachments/assets/70940dab-f490-4f16-b6f4-90e784cbdd02)
+      ![Smooth Scroll Theme Options Settings](https://github.com/user-attachments/assets/fea4cedd-cff4-4692-b1a7-6eb1607efdd8)
 
    - **Screenshot (Frontend Preview):**
 
