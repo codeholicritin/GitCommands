@@ -329,14 +329,26 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
 4. **Site Logo Width**
    - **Description:** Adjust the logo width for desktop, tablet, and mobile devices.
-   - **Screenshot (Backend Setting):** ![Site Logo Width Setting](https://github.com/user-attachments/assets/site-logo-width-screenshot)
-   - **Screenshot (Frontend Preview):** ![Site Logo Width Frontend Preview](https://github.com/user-attachments/assets/site-logo-width-frontend-preview)
+   - **Screenshot (Backend Setting):** 
+
+     ![Width Logo Theme Options Settings](https://github.com/user-attachments/assets/c5f85dc3-47c7-447e-92cd-5ebc7347c938)
+  
+   - **Screenshot (Frontend Preview):** 
+
+      ![Screenshot 2024-08-12 190901](https://github.com/user-attachments/assets/780df14f-49ff-41b5-99b9-2ec922096167)
+
    - **Usage:** Set width values for different devices.
 
 5. **Site Logo Height**
    - **Description:** Adjust the logo height for desktop, tablet, and mobile devices.
-   - **Screenshot (Backend Setting):** ![Site Logo Height Setting](https://github.com/user-attachments/assets/site-logo-height-screenshot)
-   - **Screenshot (Frontend Preview):** ![Site Logo Height Frontend Preview](https://github.com/user-attachments/assets/site-logo-height-frontend-preview)
+   - **Screenshot (Backend Setting):** 
+
+      ![Height Logo Theme Options Settings](https://github.com/user-attachments/assets/cb29120e-3dbe-4608-ab4d-09a5fe312567)
+
+   - **Screenshot (Frontend Preview):** 
+
+      ![Screenshot 2024-08-12 182759](https://github.com/user-attachments/assets/bc3bcea8-e342-4f94-ac8e-061f9b49cf9a)
+
    - **Usage:** Set height values for different devices.
 
 ## Menu > General
