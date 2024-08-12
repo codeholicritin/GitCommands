@@ -293,17 +293,26 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
 2. **Retina Header Logo**
    - **Description:** Upload a high-resolution logo for Apple devices.
-   - **Screenshot (Backend Setting):** ![Retina Header Logo Setting](https://github.com/user-attachments/assets/retina-header-logo-screenshot)
-   - **Screenshot (Frontend Preview):** ![Retina Header Logo Frontend Preview](https://github.com/user-attachments/assets/retina-header-logo-frontend-preview)
+   - **Screenshot (Backend Setting):** 
+
+      ![Retina Logo Theme Options Settings](https://github.com/user-attachments/assets/1b76785e-8642-48ca-9bbe-3bbe826beeb9)
+
+   - **Screenshot (Frontend Preview):** 
+
+      ![Screenshot 2024-08-12 182042](https://github.com/user-attachments/assets/999a228f-c513-4018-a39b-a381c4e2cb69)
+
    - **Usage:** Upload a retina logo for better display on high-resolution screens.
 
-3. **Light Header Logo**
+2. **Light Header Logo**
    - **Description:** Set a logo for light headers.
    - **Screenshot (Backend Setting):** ![Light Header Logo Setting](https://github.com/user-attachments/assets/light-header-logo-screenshot)
-   - **Screenshot (Frontend Preview):** ![Light Header Logo Frontend Preview](https://github.com/user-attachments/assets/light-header-logo-frontend-preview)
+   - **Screenshot (Frontend Preview):** 
+
+      ![Screenshot 2024-08-12 182042](https://github.com/user-attachments/assets/c984680c-0406-432e-8001-63586efb5444)
+
    - **Usage:** Upload a logo for use with light headers.
 
-4. **Default Header Logo**
+3. **Default Header Logo**
    - **Description:** Set the default logo for the standard header.
    - **Screenshot (Backend Setting):**
 
@@ -315,13 +324,13 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
    - **Usage:** Upload the default logo for the header.
 
-5. **Site Logo Width**
+4. **Site Logo Width**
    - **Description:** Adjust the logo width for desktop, tablet, and mobile devices.
    - **Screenshot (Backend Setting):** ![Site Logo Width Setting](https://github.com/user-attachments/assets/site-logo-width-screenshot)
    - **Screenshot (Frontend Preview):** ![Site Logo Width Frontend Preview](https://github.com/user-attachments/assets/site-logo-width-frontend-preview)
    - **Usage:** Set width values for different devices.
 
-6. **Site Logo Height**
+5. **Site Logo Height**
    - **Description:** Adjust the logo height for desktop, tablet, and mobile devices.
    - **Screenshot (Backend Setting):** ![Site Logo Height Setting](https://github.com/user-attachments/assets/site-logo-height-screenshot)
    - **Screenshot (Frontend Preview):** ![Site Logo Height Frontend Preview](https://github.com/user-attachments/assets/site-logo-height-frontend-preview)
