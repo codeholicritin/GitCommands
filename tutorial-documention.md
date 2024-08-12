@@ -194,18 +194,31 @@ Under the _General_ tab, in _Theme Styling_, you can customize the following:
 
    - **Usage:** Toggle to enable or disable smooth scrolling.
 > [!IMPORTANT]
-> To see the above settings work, you need to enable smooth scrolling in your browser:
+> To ensure smooth scrolling works, you need to enable it in your browser:
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;**Chrome:** </br></br>
-> &nbsp;&nbsp;&nbsp;&nbsp;1. Copy and paste the following URL into your Chrome address bar:
+> **Chrome:**
+>
+> 1. Copy and paste the following URL into your Chrome address bar:
+> 
 > ```
 > chrome://flags/
 > ```
-> </br>&nbsp;&nbsp;&nbsp;&nbsp;2. Find "Smooth Scrolling" in the list, select "Enabled" from the dropdown, and relaunch Chrome.
-> </br>&nbsp;&nbsp;&nbsp;&nbsp;3. Refer to the screenshot below for guidance.
+> 
+> 2. Find "Smooth Scrolling" in the list, select "Enabled" from the dropdown, and relaunch Chrome.
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;**Firefox:**
-> &nbsp;&nbsp;&nbsp;&nbsp;1. Navigate to Firefox settings and enable smooth scrolling.
+> 3. See the screenshot below for guidance:
+> 
+> ![Screenshot 2024-08-12 122157](https://github.com/user-attachments/assets/dced811b-6872-4587-8d5e-fd6ead220168)
+>
+> **Firefox:**
+>
+> 1. Go to Firefox `Settings > General > Browsing`. </br>
+>
+> 2. Check the "Use smooth scrolling" box as shown below: </br>
+>
+> ![Screenshot 2024-08-12 122825](https://github.com/user-attachments/assets/cb8dacb5-02ca-467f-b402-646500d312fc)
+>
+> ![Screenshot 2024-08-12 122855](https://github.com/user-attachments/assets/0ba8372b-1ca3-434e-85d2-ecd14b0ec390)
 
 
 2. **Back to Top**
