@@ -184,11 +184,17 @@ Under the _General_ tab, in _Theme Styling_, you can customize the following:
 
 2. **Smooth Scroll**
    - **Description:** Enable or disable smooth scrolling.
-   - **Screenshot (Backend Setting):** ![Smooth Scroll Setting](https://github.com/user-attachments/assets/smooth-scroll-screenshot)
-   - **Screenshot (Frontend Preview):** ![Smooth Scroll Frontend Preview](https://github.com/user-attachments/assets/smooth-scroll-frontend-preview)
+   - **Screenshot (Backend Setting):**
+
+      ![Screenshot 2024-08-12 120950](https://github.com/user-attachments/assets/70940dab-f490-4f16-b6f4-90e784cbdd02)
+
+   - **Screenshot (Frontend Preview):**
+
+      [Click here to watch the video](https://github.com/user-attachments/assets/71dd3958-8990-4c23-a356-479d032c2493)
+
    - **Usage:** Toggle to enable or disable smooth scrolling.
 
-3. **Back to Top**
+2. **Back to Top**
    - **Description:** Show or hide the "Back to Top" button on the right side of the site.
    - **Screenshot (Backend Setting):** ![Back to Top Setting](https://github.com/user-attachments/assets/back-to-top-screenshot)
    - **Screenshot (Frontend Preview):** ![Back to Top Frontend Preview](https://github.com/user-attachments/assets/back-to-top-frontend-preview)
