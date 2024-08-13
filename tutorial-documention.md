@@ -385,7 +385,7 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Usage:** Configure these settings to match your site's design preferences.
 
 > [!IMPORTANT]
-> If the above settings don't apply, try using Page Options. Click on _Edit Page > Ostnica Page Options_, select the desired settings for that page, and then update it to see the changes.
+> If the above settings don't apply, try using [Ostnica Page Options](https://github.com/codeholicritin/GitCommands/blob/main/tutorial-documention.md#ostnica-page-settings--). Click on _Edit Page > Ostnica Page Options_, select the desired settings for that page, and then update it to see the changes.
 
 ## Header > General
 
