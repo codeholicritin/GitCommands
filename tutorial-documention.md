@@ -394,8 +394,14 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
   - **Light Header:** A header with a light background suitable for dark text.
   - **Dark Header:** A header with a dark background suitable for light text.
   - **Default Header:** The default header style provided by the theme.
-- **Screenshot (Backend Setting):** ![Header Type Setting](https://github.com/user-attachments/assets/header-type-screenshot)
-- **Screenshot (Frontend Preview):** ![Header Type Frontend Preview](https://github.com/user-attachments/assets/header-type-frontend-preview)
+- **Screenshot (Backend Setting):** 
+
+   ![Header Type Theme Settings](https://github.com/user-attachments/assets/fceb34cb-ad12-457f-9b95-a9999becdca9)
+
+- **Screenshot (Frontend Preview):** 
+   
+   ![Screenshot 2024-08-13 121735](https://github.com/user-attachments/assets/796c8db0-e073-441b-86c1-cae5d6ba0c9b)
+
 - **Usage:** Select the header type that best fits your site’s design.
 
 ### 2. Sticky Header
