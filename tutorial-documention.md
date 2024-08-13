@@ -570,3 +570,5 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Usage:** Use this option if you want to restore the theme to its default settings, removing any customizations you've made.
 
 *Note: Attach screenshots from both the admin dashboard showing the theme options and the front end displaying the changes for clarity.*
+
+## Ostnica Page Settings -
