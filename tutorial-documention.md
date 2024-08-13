@@ -374,8 +374,14 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
   - **Font Size:** Adjust the font size of the menu text.
   - **Font Weight:** Set the font weight for the menu text.
   - **Font Color:** Change the color of the menu text.
-- **Screenshot (Backend Setting):** ![Menu Typography Setting](https://github.com/user-attachments/assets/menu-typography-screenshot)
-- **Screenshot (Frontend Preview):** ![Menu Typography Frontend Preview](https://github.com/user-attachments/assets/menu-typography-frontend-preview)
+- **Screenshot (Backend Setting):**
+
+   ![Menu Font TypographyTheme Settings](https://github.com/user-attachments/assets/f4f7a1de-5f15-49d6-914b-1ce23d285dcf)
+
+- **Screenshot (Frontend Preview):** 
+
+   ![Screenshot 2024-08-13 113603](https://github.com/user-attachments/assets/d86497dc-4721-483e-8843-0d03d6a3af2c)
+
 - **Usage:** Configure these settings to match your site's design preferences.
 
 ## Header > General
