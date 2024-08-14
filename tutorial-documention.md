@@ -575,7 +575,9 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Description:** Make the footer sticky, so it stays fixed at the bottom of the page while scrolling.
 - **Usage:** Toggle this setting to enable or disable the sticky footer.
 - **Screenshot (Backend Setting):**
-   
+  
+   ![Footer Box Layout Theme Settings (1)](https://github.com/user-attachments/assets/8afa5958-2ac9-41aa-b881-34c8c2c74501)
+
 - **Screenshot (Frontend Preview):** 
 
    https://github.com/user-attachments/assets/d6b4df2c-98f5-4b84-a14a-a836acd83386
