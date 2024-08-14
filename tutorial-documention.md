@@ -584,8 +584,10 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Description:** Set the background color for the footer.
 - **Usage:** Choose a color that complements your site's design.
 - **Screenshot (Backend Setting):** ![Footer Background Color Backend](https://github.com/user-attachments/assets/footer-bg-color-screenshot)
-- **Screenshot (Frontend Preview):** ![Footer Background Color Frontend](https://github.com/user-attachments/assets/footer-bg-color-frontend-screenshot)
+- **Screenshot (Frontend Preview):**
 
+   ![image](https://github.com/user-attachments/assets/5253ac2d-4269-4887-93fb-73346c4df82b)
+  
 ### Footer Font Color
 - **Description:** Set the font color for the footer text.
 - **Usage:** Select a color for optimal readability.
