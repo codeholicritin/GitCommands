@@ -553,8 +553,13 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Description:** Customize your footer's design with various layout options.
 - **Customization:** Create your footer layout from _Appearance > Widgets > Footer [Area Name]_.
 - **Usage:** Save changes to apply the updated footer design to your site.
-- **Screenshot (Backend Setting):** ![Footer Layout Backend](https://github.com/user-attachments/assets/footer-layout-screenshot)
-- **Screenshot (Frontend Preview):** ![Footer Layout Frontend](https://github.com/user-attachments/assets/footer-layout-frontend-screenshot)
+- **Screenshot (Backend Setting):**
+
+  ![Footer Layout Theme Settings](https://github.com/user-attachments/assets/347715a5-86b2-46f7-8d58-8873a273a688)
+
+- **Screenshot (Frontend Preview):**
+  
+   ![Screenshot 2024-08-14 175033](https://github.com/user-attachments/assets/d6e21bf7-954f-48f4-84a3-02b18aba1ce5)
 
 ### Box Layout
 - **Description:** Enable or disable a boxed layout for the footer.
