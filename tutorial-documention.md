@@ -424,12 +424,12 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
 - **Screenshot (Frontend Preview):** 
 
-  https://github.com/user-attachments/assets/ff180d37-f4fa-49f7-bdf6-a39c4f623237
+     https://github.com/user-attachments/assets/ff180d37-f4fa-49f7-bdf6-a39c4f623237
 
 - **Usage:** Toggle the switch to enable or disable header transparency.
 
 ### 4. Header Layout
-- **Description:** Select from different header layout styles.
+- **Description:** Ostnica Theme Options offer a range of header layouts to enhance your website’s design.
   - **Hamburger Menu Right:** The hamburger menu icon is positioned on the right.
   - **Hamburger Menu Full Width:** The hamburger menu icon spans the full width of the header.
   - **Hamburger Menu Left:** The hamburger menu icon is positioned on the left.
@@ -437,8 +437,14 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
   - **Center Menu Center Logo:** The menu and logo are centered within the header.
   - **Center Logo Left Menu Right Menu:** The logo is centered, with the menu items on the left and right.
   - **Center Menu Blur Background:** The menu is centered with a blurred background effect.
-- **Screenshot (Backend Setting):** ![Header Layout Setting](https://github.com/user-attachments/assets/header-layout-screenshot)
-- **Screenshot (Frontend Preview):** ![Header Layout Frontend Preview](https://github.com/user-attachments/assets/header-layout-frontend-preview)
+- **Screenshot (Backend Setting):** 
+
+   ![Header Layout Theme Settings](https://github.com/user-attachments/assets/33a729f9-06a5-44b0-aa45-adb5f1b9bbc1)
+
+- **Screenshot (Frontend Preview):** 
+
+   ![Screenshot 2024-08-14 171506](https://github.com/user-attachments/assets/1aadb8aa-e13c-47fe-9f82-4a62e59c4deb)
+
 - **Usage:** Choose the layout that best fits your website's design.
 
 ### 5. Header Background
