@@ -420,7 +420,8 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Description:** Enable or disable the transparency of the header.
 - **Screenshot (Backend Setting):** 
 
-   
+   ![_Theme Settings](https://github.com/user-attachments/assets/4f9c0543-9cf3-4f1f-90f5-10bfc81ae217)
+
 - **Screenshot (Frontend Preview):** 
 
   https://github.com/user-attachments/assets/ff180d37-f4fa-49f7-bdf6-a39c4f623237
