@@ -423,7 +423,7 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
    
 - **Screenshot (Frontend Preview):** 
 
-   https://github.com/user-attachments/assets/9c0829e1-e4b8-4b7d-af76-c0804f07ee81
+  https://github.com/user-attachments/assets/ff180d37-f4fa-49f7-bdf6-a39c4f623237
 
 - **Usage:** Toggle the switch to enable or disable header transparency.
 
