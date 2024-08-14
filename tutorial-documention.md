@@ -408,18 +408,23 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Description:** Enable or disable the sticky header feature, which keeps the header fixed at the top of the page as you scroll.
 - **Screenshot (Backend Setting):** 
 
-   ![Sticky Header Theme Settings](https://github.com/user-attachments/assets/8f35d28b-20ab-43bd-ab5b-f0736ad48ca6)
+   ![Sticky Header Theme Settings (1)](https://github.com/user-attachments/assets/7c30aade-1267-46a3-ad74-ae93e3bb2759)
 
 - **Screenshot (Frontend Preview):**
   
-   https://github.com/user-attachments/assets/9c0829e1-e4b8-4b7d-af76-c0804f07ee81
+   https://github.com/user-attachments/assets/dd596acb-973c-4a14-bfcb-53e84ab1ace3
 
 - **Usage:** Toggle the switch to enable or disable the sticky header.
 
 ### 3. Transparent Header
 - **Description:** Enable or disable the transparency of the header.
-- **Screenshot (Backend Setting):** ![Transparent Header Setting](https://github.com/user-attachments/assets/transparent-header-screenshot)
-- **Screenshot (Frontend Preview):** ![Transparent Header Frontend Preview](https://github.com/user-attachments/assets/transparent-header-frontend-preview)
+- **Screenshot (Backend Setting):** 
+
+   
+- **Screenshot (Frontend Preview):** 
+
+   https://github.com/user-attachments/assets/9c0829e1-e4b8-4b7d-af76-c0804f07ee81
+
 - **Usage:** Toggle the switch to enable or disable header transparency.
 
 ### 4. Header Layout
