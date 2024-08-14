@@ -559,7 +559,7 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
 - **Screenshot (Frontend Preview):**
   
-   ![Screenshot 2024-08-14 175033](https://github.com/user-attachments/assets/d6e21bf7-954f-48f4-84a3-02b18aba1ce5)
+   ![image](https://github.com/user-attachments/assets/aa2c03c7-d092-4734-9446-5dfb811472d1)
 
 ### Box Layout
 - **Description:** Enable or disable a boxed layout for the footer.
@@ -569,7 +569,7 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
 - **Screenshot (Frontend Preview):** 
    
-   ![Screenshot 2024-08-14 175234](https://github.com/user-attachments/assets/057a6c68-03e9-4fc4-96ca-0ac594284fe7)
+   ![image](https://github.com/user-attachments/assets/2b4028af-0e5b-4b60-9c64-5f2ae7a2632c)
 
 ### Sticky Footer
 - **Description:** Make the footer sticky, so it stays fixed at the bottom of the page while scrolling.
@@ -578,7 +578,7 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
    
 - **Screenshot (Frontend Preview):** 
 
-   https://github.com/user-attachments/assets/adf1732b-6e8d-419b-8c59-3f11ad3a33d8
+   https://github.com/user-attachments/assets/d6b4df2c-98f5-4b84-a14a-a836acd83386
 
 ### Footer Background Color
 - **Description:** Set the background color for the footer.
