@@ -1,4 +1,4 @@
-# Ostnica Theme Documentation
+![Screenshot 2024-08-14 175234](https://github.com/user-attachments/assets/32e1947c-4919-4268-bef7-a0a0b86b31e5)# Ostnica Theme Documentation
 
 ## 1. Getting Started
 - **Theme Name**: Ostnica
@@ -564,8 +564,12 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 ### Box Layout
 - **Description:** Enable or disable a boxed layout for the footer.
 - **Usage:** Toggle this setting to apply a boxed or full-width footer layout.
-- **Screenshot (Backend Setting):** ![Box Layout Backend](https://github.com/user-attachments/assets/box-layout-screenshot)
-- **Screenshot (Frontend Preview):** ![Box Layout Frontend](https://github.com/user-attachments/assets/box-layout-frontend-screenshot)
+- **Screenshot (Backend Setting):** 
+   ![Footer Box Layout Theme Settings](https://github.com/user-attachments/assets/852d559e-c100-4be6-9293-f0f1efa4f09a)
+
+- **Screenshot (Frontend Preview):** 
+   
+   ![Screenshot 2024-08-14 175234](https://github.com/user-attachments/assets/057a6c68-03e9-4fc4-96ca-0ac594284fe7)
 
 ### Sticky Footer
 - **Description:** Make the footer sticky, so it stays fixed at the bottom of the page while scrolling.
