@@ -390,10 +390,10 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 ## Header > General
 
 ### 1. Header Type
-- **Description:** Choose the type of header to display.
-  - **Light Header:** A header with a light background suitable for dark text.
-  - **Dark Header:** A header with a dark background suitable for light text.
-  - **Default Header:** The default header style provided by the theme.
+- **Description:** The Ostnica theme allows you to choose from various header styles to suit your site’s design.
+  - **Light Header:** Features a light background, ideal for dark text, enhancing readability.
+  - **Dark Header:** Offers a dark background, which works well with light text for a modern look.
+  - **Default Header:** Uses the theme’s standard header style, providing a balanced design without customization.
 - **Screenshot (Backend Setting):** 
 
    ![Header Type Theme Settings](https://github.com/user-attachments/assets/fceb34cb-ad12-457f-9b95-a9999becdca9)
