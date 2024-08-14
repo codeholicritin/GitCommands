@@ -449,8 +449,14 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
 ### 5. Header Background
 - **Description:** Change the background color of the header.
-- **Screenshot (Backend Setting):** ![Header Background Setting](https://github.com/user-attachments/assets/header-background-screenshot)
-- **Screenshot (Frontend Preview):** ![Header Background Frontend Preview](https://github.com/user-attachments/assets/header-background-frontend-preview)
+- **Screenshot (Backend Setting):** 
+
+   ![Header Backhground Theme Settings](https://github.com/user-attachments/assets/30f5e1a5-a3f8-4e73-a4c3-4ee8a8eb8c93)
+
+- **Screenshot (Frontend Preview):** 
+
+   ![Screenshot 2024-08-14 172101](https://github.com/user-attachments/assets/2d514275-db97-4b7b-8ae3-c3b99d500537)
+
 - **Usage:** Select a color to set as the header background.
 
 ### 6. Header Height
@@ -458,8 +464,14 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
   - **Desktop:** Height of the header on desktop screens.
   - **Tablet:** Height of the header on tablet screens.
   - **Mobile:** Height of the header on mobile screens.
-- **Screenshot (Backend Setting):** ![Header Height Setting](https://github.com/user-attachments/assets/header-height-screenshot)
-- **Screenshot (Frontend Preview):** ![Header Height Frontend Preview](https://github.com/user-attachments/assets/header-height-frontend-preview)
+- **Screenshot (Backend Setting):**
+
+   ![Header Backhground Theme Settings (1)](https://github.com/user-attachments/assets/c926fcb1-2540-4d07-950d-186de16e01cc)
+
+- **Screenshot (Frontend Preview):** 
+
+   ![Screenshot 2024-08-14 170544](https://github.com/user-attachments/assets/2ea634a2-5d8d-4715-ba68-416f1357c534)
+
 - **Usage:** Enter height values for desktop, tablet, and mobile devices to adjust the header’s size.
 
 ## Page > General
