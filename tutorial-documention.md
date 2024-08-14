@@ -565,8 +565,11 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 ### Sticky Footer
 - **Description:** Make the footer sticky, so it stays fixed at the bottom of the page while scrolling.
 - **Usage:** Toggle this setting to enable or disable the sticky footer.
-- **Screenshot (Backend Setting):** ![Sticky Footer Backend](https://github.com/user-attachments/assets/sticky-footer-screenshot)
-- **Screenshot (Frontend Preview):** ![Sticky Footer Frontend](https://github.com/user-attachments/assets/sticky-footer-frontend-screenshot)
+- **Screenshot (Backend Setting):**
+   
+- **Screenshot (Frontend Preview):** 
+
+   https://github.com/user-attachments/assets/adf1732b-6e8d-419b-8c59-3f11ad3a33d8
 
 ### Footer Background Color
 - **Description:** Set the background color for the footer.
