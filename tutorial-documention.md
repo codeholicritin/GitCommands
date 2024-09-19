@@ -519,28 +519,57 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 ### 4. Portfolio Page Layout
 - **Description:** Choose the design layout for your portfolio page.
 - **Options:**
-  - **Layout 1:** [Description or screenshot of Layout 1]
-  - **Layout 2:** [Description or screenshot of Layout 2]
-- **Usage:** Choose the layout that aligns with your portfolio’s aesthetic. 
-- **Screenshot (Backend Setting):** Portfolio Page Layout Backend  
-- **Screenshot (Frontend Preview):** Portfolio Page Layout Frontend
+  - **Layout 1:**
 
-To preview changes, navigate to your website's portfolio URL, e.g., _http://localhost/Ostnica_demo/portfolios/_.
+    ![post_and_portfolio_l1](https://github.com/user-attachments/assets/8a7f05fd-0395-49f3-8f20-b5afc1d6e620)
+
+  - **Layout 2:**
+
+    ![post_and_portfolio_l2](https://github.com/user-attachments/assets/8e24a439-1eba-496b-b6cc-2933baab8a67)
+      
+- **Usage:** Choose the layout that aligns with your portfolio’s aesthetic. 
+- **Screenshot (Backend Setting):**
+
+   ![Portfolio Layout Selection Backend](https://github.com/user-attachments/assets/fdbfcaee-300c-4c68-a236-61b95bef1bd1)
+
+- **Screenshot (Frontend Preview):**
+
+  ![Portfolio Layout Preview Frontend](https://github.com/user-attachments/assets/eb74bacb-00cd-4804-9a5c-1edfd13a47a0)
+
+> [!Note]  
+> To preview changes, navigate to your website's portfolio URL, e.g., _http://localhost/Ostnica_demo/portfolios/_.
+> 
+> If you encounter a "Page Not Found" error, go to `Settings > Permalinks`, click the **Save Changes** button, and try accessing the URL again. Ensure you entered the correct URL format: _base-url/portfolios_.
 
 ### 5. Portfolio List Page Settings
 - **Description:** Configure settings for the portfolio list page to customize its appearance and functionality.
+
 - **Select Settings for Portfolio List Page:**
-  - **Post Order:** 
-    - **Description:** Determine the order in which posts appear on the portfolio list page (ascending or descending).
-    - **Usage:** Choose the preferred order for displaying portfolio items.
+  - **Post Order:**  
+    - **Description:** Determine the order in which posts appear on the portfolio list page, either in ascending or descending order.
+    - **Usage:** Select your preferred post order to control the sequence of portfolio items displayed.
     - **Screenshot (Backend Setting):** ![Post Order Backend](https://github.com/user-attachments/assets/post-order-screenshot)
     - **Screenshot (Frontend Preview):** ![Post Order Frontend](https://github.com/user-attachments/assets/post-order-frontend-screenshot)
+    
+  - **Post Per Page:**  
+    - **Description:** Set the number of posts displayed per page on the portfolio list page.
+    - **Usage:** Choose the desired number of posts to show on each page of the portfolio list.
 
-  - **Posts Per Page:** 
-    - **Description:** Set the number of posts to display per page on the portfolio list page.
-    - **Usage:** Enter the desired number of posts to show on each page of the portfolio list.
-    - **Screenshot (Backend Setting):** ![Posts Per Page Backend](https://github.com/user-attachments/assets/posts-per-page-screenshot)
-    - **Screenshot (Frontend Preview):** ![Posts Per Page Frontend](https://github.com/user-attachments/assets/posts-per-page-frontend-screenshot)
+  - **Layout Options:**
+     - **Layout 1:**
+         - **Description:** This layout displays portfolio items in a grid format, offering a clean and structured appearance. When hovering over any portfolio image, an overlay text with the project title appears from                the bottom of the image, creating an interactive visual effect. This layout is perfect for showcasing projects with minimalistic yet engaging hover effects.
+           
+              ![portfolio_l3](https://github.com/user-attachments/assets/191f04b9-65eb-4858-bc12-e0fc00daaa69)
+    
+     - **Layout 2:**  
+         - **Description:** This layout presents portfolio items in a list format, where each portfolio entry is displayed with the image on the left side and the corresponding portfolio description on the right. It                    provides a clear and detailed view of each project, making it ideal for portfolios that require more descriptive content alongside visual representation.
+        
+             ![portfolio_l1](https://github.com/user-attachments/assets/88b520fc-cfbc-44bb-87c9-5bce8d1bc297)
+
+     - **Layout 3:**  
+         - **Description:** This layout displays portfolio items in a grid format, similar to a card layout. Each portfolio entry showcases the image, with the portfolio description positioned directly below it. It                    offers a clean, modern, and visually balanced presentation, ideal for portfolios with a strong emphasis on visual content and concise descriptions.
+        
+             ![portfolio_l2](https://github.com/user-attachments/assets/07824e0c-dab0-472e-923d-5762a79be2ae)
 
 ### 6. Post Page Layout
 - **Description:** Choose the design layout for individual post pages.
