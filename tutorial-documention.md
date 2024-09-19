@@ -518,12 +518,14 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
   
 ### 4. Portfolio Page Layout
 - **Description:** Choose the design layout for your portfolio page.
-- **Options:** 
+- **Options:**
   - **Layout 1:** [Description or screenshot of Layout 1]
   - **Layout 2:** [Description or screenshot of Layout 2]
-- **Usage:** Select the layout that best fits your portfolio design preferences.
-- **Screenshot (Backend Setting):** ![Portfolio Page Layout Backend](https://github.com/user-attachments/assets/portfolio-page-layout-screenshot)
-- **Screenshot (Frontend Preview):** ![Portfolio Page Layout Frontend](https://github.com/user-attachments/assets/portfolio-page-layout-frontend-screenshot)
+- **Usage:** Choose the layout that aligns with your portfolio’s aesthetic. 
+- **Screenshot (Backend Setting):** Portfolio Page Layout Backend  
+- **Screenshot (Frontend Preview):** Portfolio Page Layout Frontend
+
+To preview changes, navigate to your website's portfolio URL, e.g., _http://localhost/Ostnica_demo/portfolios/_.
 
 ### 5. Portfolio List Page Settings
 - **Description:** Configure settings for the portfolio list page to customize its appearance and functionality.
