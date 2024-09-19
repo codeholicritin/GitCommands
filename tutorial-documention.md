@@ -479,8 +479,14 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 ### 1. Sidebar
 - **Description:** Enable or disable the sidebar on the post page, allowing you to display widgets or posts. Posts are displayed only when you select them from the "Select Page" options.
 - **Sidebar Widgets:** To display widgets in the left sidebar, navigate to _Appearance > Widgets > Left Sidebar_ and add content. For the right sidebar, navigate to _Appearance > Widgets > Right Sidebar_ and add your content.
-- **Screenshot (Backend Setting):** ![Sidebar Setting](https://github.com/user-attachments/assets/sidebar-setting-screenshot)
-- **Screenshot (Frontend Preview):** ![Sidebar Frontend Preview](https://github.com/user-attachments/assets/sidebar-frontend-preview)
+- **Screenshot (Backend Setting):**
+
+   ![Left Side Bar Enable In Page](https://github.com/user-attachments/assets/b808402e-abf7-40ad-9029-cf25647b7f00)
+  
+- **Screenshot (Frontend Preview):**
+  
+   ![Front End Preview Left Sidebar](https://github.com/user-attachments/assets/bafcab4f-c4b1-42a2-9268-8cd93888405e)
+
 - **Usage:** Toggle the switch to enable or disable the sidebar on the post page.
 
 ### 2. Select Sidebar Position
@@ -488,14 +494,26 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
   - **Left Sidebar:** Displays the sidebar on the left side of the page.
   - **Right Sidebar:** Displays the sidebar on the right side of the page.
   - **Both Sidebars:** Displays sidebars on both the left and right sides of the page.
-- **Screenshot (Backend Setting):** ![Sidebar Position Setting](https://github.com/user-attachments/assets/sidebar-position-setting-screenshot)
-- **Screenshot (Frontend Preview):** ![Sidebar Position Frontend Preview](https://github.com/user-attachments/assets/sidebar-position-frontend-preview)
+- **Screenshot (Backend Setting):**
+
+   ![Right Sidebar Backend Setting](https://github.com/user-attachments/assets/f7787999-b6c2-4909-a34f-bb43c0a1cf40)
+  
+- **Screenshot (Frontend Preview):** 
+
+   ![Front End Preview Right Sidebar](https://github.com/user-attachments/assets/5495e728-3b57-4880-98d0-aec5bae672a2)
+
 - **Usage:** Select the desired sidebar position to apply it to your pages.
 
 ### 3. Select Page
 - **Description:** Provides a list of posts that you can choose to display in the sidebar. This feature allows you to curate specific content that appears alongside your main content.
-- **Screenshot (Backend Setting):** ![Select Page Setting](https://github.com/user-attachments/assets/select-page-setting-screenshot)
-- **Screenshot (Frontend Preview):** ![Select Page Frontend Preview](https://github.com/user-attachments/assets/select-page-frontend-preview)
+- **Screenshot (Backend Setting):**
+
+   ![Page List](https://github.com/user-attachments/assets/1854792c-9604-4f06-8938-50fa96d1b25d)
+
+- **Screenshot (Frontend Preview):**
+
+  ![Front End Preview Left Sidebar](https://github.com/user-attachments/assets/5892f1f9-84cf-4417-b11d-4745f1cf50fa)
+
 - **Usage:** Select the posts from the provided list to display them in the sidebar.
   
 ### 4. Portfolio Page Layout
