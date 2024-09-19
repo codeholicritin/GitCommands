@@ -573,7 +573,13 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 - **Description:** Choose the design layout for individual post pages.
 - **Options:** 
   - **Layout 1**
+
+    ![post_and_portfolio_l1](https://github.com/user-attachments/assets/8a9f52bb-0710-4a66-b563-cda9bc9af70a)
+
   - **Layout 2**
+
+    ![post_and_portfolio_l2 (1)](https://github.com/user-attachments/assets/34b827d7-f409-4d00-a777-677936d07b1f)
+
 - **Usage:** Select the layout that best fits your design preferences for individual posts.
 - **Screenshot (Backend Setting):** ![Post Page Layout Backend](https://github.com/user-attachments/assets/post-page-layout-screenshot)
 - **Screenshot (Frontend Preview):** ![Post Page Layout Frontend](https://github.com/user-attachments/assets/post-page-layout-frontend-screenshot)
