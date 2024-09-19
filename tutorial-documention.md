@@ -599,8 +599,13 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 ### Copyright Bar Content
 - **Description:** Add content to the copyright bar, such as company details or legal information.
 - **Usage:** Enter your content to display it at the bottom of the footer.
-- **Screenshot (Backend Setting):** ![Screenshot 2024-09-19 154159](https://github.com/user-attachments/assets/9747e206-3663-4f76-8494-f02599a17a7e)
-- **Screenshot (Frontend Preview):** ![Screenshot 2024-09-19 154132](https://github.com/user-attachments/assets/cbdfeb9b-4a37-4444-bf08-6bbb39b2e923)
+- **Screenshot (Backend Setting):**
+  
+  ![Screenshot 2024-09-19 154159](https://github.com/user-attachments/assets/9747e206-3663-4f76-8494-f02599a17a7e)
+  
+- **Screenshot (Frontend Preview):**
+  
+  ![Screenshot 2024-09-19 154132](https://github.com/user-attachments/assets/cbdfeb9b-4a37-4444-bf08-6bbb39b2e923)
 
 ### Copyright Bar Typography
 - **Description:** Customize the typography for the copyright content in the footer.
