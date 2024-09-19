@@ -585,7 +585,10 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 ### Footer Background Color
 - **Description:** Set the background color for the footer.
 - **Usage:** Choose a color that complements your site's design.
-- **Screenshot (Backend Setting):** ![Footer Background Color Backend](https://github.com/user-attachments/assets/footer-bg-color-screenshot)
+- **Screenshot (Backend Setting):**
+
+   ![Footer Background Color](https://github.com/user-attachments/assets/889214b5-0391-4571-a118-351c545c7791)
+  
 - **Screenshot (Frontend Preview):**
 
    ![image](https://github.com/user-attachments/assets/5253ac2d-4269-4887-93fb-73346c4df82b)
@@ -593,7 +596,10 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 ### Footer Font Color
 - **Description:** Set the font color for the footer text.
 - **Usage:** Select a color for optimal readability.
-- **Screenshot (Backend Setting):** ![Footer Font Color Backend](https://github.com/user-attachments/assets/footer-font-color-screenshot)
+- **Screenshot (Backend Setting):**
+
+   ![Footer Font Color](https://github.com/user-attachments/assets/7c8c2227-6c35-4752-9beb-0ddf9b895bc0)
+  
 - **Screenshot (Frontend Preview):** ![Footer Font Color Frontend](https://github.com/user-attachments/assets/footer-font-color-frontend-screenshot)
 
 ### Copyright Bar Content
@@ -615,7 +621,10 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
   - **Font Color:** Change the font color for copyright text.
   - **Font Family:** Select the font family for copyright text.
 - **Usage:** Adjust these settings to style the copyright content to match your site's design.
-- **Screenshot (Backend Setting):** ![Copyright Bar Typography Backend](https://github.com/user-attachments/assets/copyright-bar-typography-screenshot)
+- **Screenshot (Backend Setting):**
+
+  ![Footer Copyright typography](https://github.com/user-attachments/assets/538d93d9-59eb-41db-a423-5516ade94650)
+
 - **Screenshot (Frontend Preview):** ![Copyright Bar Typography Frontend](https://github.com/user-attachments/assets/copyright-bar-typography-frontend-screenshot)
 
   
