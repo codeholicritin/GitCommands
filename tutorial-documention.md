@@ -581,8 +581,13 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
     ![post_and_portfolio_l2 (1)](https://github.com/user-attachments/assets/34b827d7-f409-4d00-a777-677936d07b1f)
 
 - **Usage:** Select the layout that best fits your design preferences for individual posts.
-- **Screenshot (Backend Setting):** ![Post Page Layout Backend](https://github.com/user-attachments/assets/post-page-layout-screenshot)
-- **Screenshot (Frontend Preview):** ![Post Page Layout Frontend](https://github.com/user-attachments/assets/post-page-layout-frontend-screenshot)
+- **Screenshot (Backend Setting):**
+  
+     ![Portfolio Post Description Layout](https://github.com/user-attachments/assets/8c0b0287-5878-45e4-96d5-16516ccf2896)
+
+- **Screenshot (Frontend Preview):**
+
+     ![Screenshot 2024-09-19 192426](https://github.com/user-attachments/assets/8e176b0c-64b1-441e-bc52-82f069d28605)
 
 ### 7. Portfolio List Page Settings
 - **Description:** Configure settings for the portfolio list page to control post display.
