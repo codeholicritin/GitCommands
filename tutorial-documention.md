@@ -591,8 +591,8 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
   
 - **Screenshot (Frontend Preview):**
 
-   ![image](https://github.com/user-attachments/assets/5253ac2d-4269-4887-93fb-73346c4df82b)
-  
+   ![Screenshot 2024-09-19 160357](https://github.com/user-attachments/assets/dd826e8e-01fe-4a66-aebe-dea01e1c457f)
+
 ### Footer Font Color
 - **Description:** Set the font color for the footer text.
 - **Usage:** Select a color for optimal readability.
@@ -600,7 +600,9 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
    ![Footer Font Color](https://github.com/user-attachments/assets/7c8c2227-6c35-4752-9beb-0ddf9b895bc0)
   
-- **Screenshot (Frontend Preview):** ![Footer Font Color Frontend](https://github.com/user-attachments/assets/footer-font-color-frontend-screenshot)
+- **Screenshot (Frontend Preview):**
+
+  ![Footer Font Color Frontend](https://github.com/user-attachments/assets/2aa18db6-f7c7-48ce-9721-21c48475c701)
 
 ### Copyright Bar Content
 - **Description:** Add content to the copyright bar, such as company details or legal information.
@@ -610,8 +612,8 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
   ![Screenshot 2024-09-19 154159](https://github.com/user-attachments/assets/9747e206-3663-4f76-8494-f02599a17a7e)
   
 - **Screenshot (Frontend Preview):**
-  
-  ![Screenshot 2024-09-19 154132](https://github.com/user-attachments/assets/cbdfeb9b-4a37-4444-bf08-6bbb39b2e923)
+
+  ![Screenshot 2024-09-19 161050](https://github.com/user-attachments/assets/fb6eb94e-28c1-4872-8486-b7e9e9b5349b)
 
 ### Copyright Bar Typography
 - **Description:** Customize the typography for the copyright content in the footer.
@@ -625,9 +627,10 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
   ![Footer Copyright typography](https://github.com/user-attachments/assets/538d93d9-59eb-41db-a423-5516ade94650)
 
-- **Screenshot (Frontend Preview):** ![Copyright Bar Typography Frontend](https://github.com/user-attachments/assets/copyright-bar-typography-frontend-screenshot)
+- **Screenshot (Frontend Preview):**
 
-  
+   ![Screenshot 2024-09-19 161050](https://github.com/user-attachments/assets/e953dd1c-dc2b-41d0-b158-07537f840586)
+
 ## Reset > Reset All Settings
 
 ### Reset All Settings
