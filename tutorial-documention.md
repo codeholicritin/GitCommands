@@ -548,9 +548,7 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
   - **Post Order:**  
     - **Description:** Determine the order in which posts appear on the portfolio list page, either in ascending or descending order.
     - **Usage:** Select your preferred post order to control the sequence of portfolio items displayed.
-    - **Screenshot (Backend Setting):** ![Post Order Backend](https://github.com/user-attachments/assets/post-order-screenshot)
-    - **Screenshot (Frontend Preview):** ![Post Order Frontend](https://github.com/user-attachments/assets/post-order-frontend-screenshot)
-    
+  
   - **Post Per Page:**  
     - **Description:** Set the number of posts displayed per page on the portfolio list page.
     - **Usage:** Choose the desired number of posts to show on each page of the portfolio list.
