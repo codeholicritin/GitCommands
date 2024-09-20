@@ -729,3 +729,19 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 *Note: Attach screenshots from both the admin dashboard showing the theme options and the front end displaying the changes for clarity.*
 
 ## Ostnica Page Settings -
+Ostnica theme also provides you with **Ostnica Page Setting** options to fully customize your page design and layout. It includes a variety of options that allow you to control the appearance and functionality of your pages, offering flexibility and ease of use for creating unique page layouts that fit your style.
+
+## Backend Settings Screenshot:
+
+   ![Edit Single Page Ostnica Settings](https://github.com/user-attachments/assets/640bec3b-79d3-4dfb-ae8a-f202ec44fd7b)
+   
+   ![Ostnica Page Settings Backend Customization](https://github.com/user-attachments/assets/66ee6c4a-457e-456a-8bcd-14df806d902d)
+
+## Frontend Preview Screenshot:
+   - **Before Applying Ostnica Page Setting :**
+     
+        ![Screenshot 2024-09-20 164746](https://github.com/user-attachments/assets/7db96eb1-e047-46df-a3f5-206ff65b1a3d)
+     
+   - **After Applying Ostnica Page Setting :** 
+
+        ![Screenshot 2024-09-20 171258](https://github.com/user-attachments/assets/d8e511b4-d47b-468e-9c1a-5333e80b134b)
