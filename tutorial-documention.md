@@ -1,4 +1,4 @@
-# Ostnica Theme Documentation
+![Post List Page Settings](https://github.com/user-attachments/assets/caf1425a-ede7-44d7-83f4-11b2fe01b429)# Ostnica Theme Documentation
 
 ## 1. Getting Started
 - **Theme Name**: Ostnica
@@ -591,19 +591,48 @@ Under the _General_ tab, in _Site Identity_, you can adjust the following:
 
 ### 7. Portfolio List Page Settings
 - **Description:** Configure settings for the portfolio list page to control post display.
+- **Screenshot (Backend Setting):**
+  
+     ![Post List Page Settings](https://github.com/user-attachments/assets/ae7a68ce-525e-4a40-b420-67670a3f07c9)
+
+- **Screenshot (Frontend Preview):**
+  
+     ![Screenshot 2024-09-20 162022](https://github.com/user-attachments/assets/f2724215-f489-41c4-822f-1b6cd827c647)
+
+- **Layout Options:**
+   - **Layout 1:**
+     
+        ![post_l1](https://github.com/user-attachments/assets/675af835-3d02-4c7b-b331-ed215a685cce)
+
+   - **Layout 2:**
+  
+       ![post_l2](https://github.com/user-attachments/assets/a91024a6-3250-4c6d-bbe3-0406cc81481c)
+
+  - **Layout 3:**
+
+       ![post_l3](https://github.com/user-attachments/assets/f1ac1d86-ab3c-4a32-9515-b2114b1d6fec)
+
+
 - **Post Order:** 
   - **Description:** Arrange posts in ascending or descending order.
   - **Options:**
     - **Ascending:** Posts will be displayed from oldest to newest.
     - **Descending:** Posts will be displayed from newest to oldest.
-  - **Screenshot (Backend Setting):** ![Post Order Backend](https://github.com/user-attachments/assets/post-order-screenshot)
-  
+  - **Screenshot (Backend Setting):**
+    
+     ![Post List Page Post Order Backend](https://github.com/user-attachments/assets/07499e4b-4690-4a05-a46a-f78927184d5c)
+
 - **Posts Per Page:** 
   - **Description:** Set the number of posts to display per page in the portfolio list.
   - **Usage:** Enter the desired number to limit the posts shown on each page.
-  - **Screenshot (Backend Setting):** ![Posts Per Page Backend](https://github.com/user-attachments/assets/posts-per-page-screenshot)
+  - **Screenshot (Backend Setting):**
+  
+      ![Screenshot 2024-09-20 163305](https://github.com/user-attachments/assets/6d325307-37f3-4d43-884b-c07749780b80)
 
-- **Screenshot (Frontend Preview):** ![Portfolio List Page Settings Frontend](https://github.com/user-attachments/assets/portfolio-list-page-settings-frontend-screenshot)
+- **Screenshot (Frontend Preview):**
+  
+     ![Screenshot 2024-09-20 164405](https://github.com/user-attachments/assets/1c6b96d7-6f4a-4ef3-9b69-fb6f13f7b1ac)
+
 
 ## Footer > Footer Settings
 
