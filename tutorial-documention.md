@@ -1,5 +1,3 @@
-![Post List Page Settings](https://github.com/user-attachments/assets/caf1425a-ede7-44d7-83f4-11b2fe01b429)# Ostnica Theme Documentation
-
 ## 1. Getting Started
 - **Theme Name**: Ostnica
 - **Description**: The theme is designed to take full advantage of advanced features. It includes theme options, multiple layout demos, an easy one-click demo import option, customization support, and many more features, making it a perfect choice for your website. Use it to create something cool and attractive, and share what you’ve learned with others.
