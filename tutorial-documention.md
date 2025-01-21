@@ -100,7 +100,7 @@ If you encounter an error while using the bulk action, please try to install the
    ![Demo Import Step 3](https://github.com/user-attachments/assets/818ff6a0-1fde-46ca-9fbc-5970de15cb1e)
 
 > [!Note]
-> If you encounter issues with importing the theme demo, ensure you have followed the [General Requirements for the Ostnica Theme](tutorial-documention.md#2-general-requirements-of-ostnica-theme).
+> If you encounter issues with importing the theme demo, ensure you have followed the [General Requirements for the Ostnica Theme](tutorial-documentation.md#2-general-requirements-of-ostnica-theme).
 
 ## 6. Setting the Demo Theme as the Homepage
 
